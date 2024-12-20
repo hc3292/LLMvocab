@@ -1,0 +1,1534 @@
+general_ancestor_concept_name,general_ancestor_concept_id,descendant_concept_id,concept_name,rc,dbc,drc,ddbc,max_levels_of_separation
+Disorder of cardiovascular system,134057,443784,Vascular disorder,186458,13,1408753835,22,1
+Disorder of cardiovascular system,134057,44784217,Cardiac arrhythmia,84417590,19,809155077,22,2
+Disorder of cardiovascular system,134057,4248028,Supraventricular arrhythmia,2290,3,600539109,22,3
+Disorder of cardiovascular system,134057,316139,Heart failure,90810646,22,590261828,22,3
+Disorder of cardiovascular system,134057,4068155,Atrial arrhythmia,1837833,7,569587451,22,4
+Disorder of cardiovascular system,134057,4226399,Fibrillation,641,2,509413293,22,3
+Disorder of cardiovascular system,134057,313217,Atrial fibrillation,401301046,17,505854013,22,5
+Disorder of cardiovascular system,134057,4028741,Benign hypertension,2429916,3,463444354,14,2
+Disorder of cardiovascular system,134057,312648,Benign essential hypertension,460353565,14,460357035,14,3
+Disorder of cardiovascular system,134057,4028367,Acute disease of cardiovascular system,3524522,12,400849803,22,1
+Disorder of cardiovascular system,134057,4089897,Vascular degeneration,263,2,383384135,22,2
+Disorder of cardiovascular system,134057,318443,Arteriosclerotic vascular disease,4149428,21,382002852,22,3
+Disorder of cardiovascular system,134057,40479625,Atherosclerosis of artery,1048636,16,366915148,20,4
+Disorder of cardiovascular system,134057,43022059,Disease of non-coronary systemic artery,811105,10,352890342,22,3
+Disorder of cardiovascular system,134057,317576,Coronary arteriosclerosis,8778590,21,334919780,21,4
+Disorder of cardiovascular system,134057,40481919,Coronary atherosclerosis,148317205,13,325757700,13,5
+Disorder of cardiovascular system,134057,319835,Congestive heart failure,285453433,22,312016093,22,4
+Disorder of cardiovascular system,134057,4185932,Ischemic heart disease,2030667,17,259118868,22,3
+Disorder of cardiovascular system,134057,4028244,Chronic disease of cardiovascular system,200,2,254602228,22,1
+Disorder of cardiovascular system,134057,4239975,Myocardial disease,23930,9,251656595,22,2
+Disorder of cardiovascular system,134057,4281749,Heart valve disorder,104709,6,230260820,22,2
+Disorder of cardiovascular system,134057,40488439,Abnormality of systemic vein,857,1,229696830,22,3
+Disorder of cardiovascular system,134057,4134586,Chronic heart disease,427,2,228190844,21,2
+Disorder of cardiovascular system,134057,4132088,Acute heart disease,200,2,219924000,22,2
+Disorder of cardiovascular system,134057,381591,Cerebrovascular disease,19904987,21,192574742,22,1
+Disorder of cardiovascular system,134057,764123,Atherosclerosis of coronary artery without angina pectoris,177439264,10,177439264,10,6
+Disorder of cardiovascular system,134057,4027369,Vascular disease of abdomen,719308,13,167201111,22,2
+Disorder of cardiovascular system,134057,312349,Venous varices,8041388,21,157389885,22,4
+Disorder of cardiovascular system,134057,4134454,Vascular headache,1425861,20,156698484,21,2
+Disorder of cardiovascular system,134057,321052,Peripheral vascular disease,115093764,22,155613237,22,1
+Disorder of cardiovascular system,134057,318736,Migraine,79593640,20,155018767,21,3
+Disorder of cardiovascular system,134057,4329847,Myocardial infarction,727024,14,121719067,22,4
+Disorder of cardiovascular system,134057,4231363,Thrombosis,9215,4,118464969,22,1
+Disorder of cardiovascular system,134057,4208466,Thrombosis of blood vessel,1796,2,117671874,22,2
+Disorder of cardiovascular system,134057,442604,Hypertensive heart disease,400691,13,115117649,19,2
+Disorder of cardiovascular system,134057,444031,Chronic heart failure,11856,3,110012514,14,4
+Disorder of cardiovascular system,134057,4095643,Trunk varices,200,2,106085662,22,5
+Disorder of cardiovascular system,134057,444247,Venous thrombosis,9838457,17,102859429,22,3
+Disorder of cardiovascular system,134057,319843,Mitral valve disorder,51058248,21,99944709,22,3
+Disorder of cardiovascular system,134057,197311,Pelvic varices,107117,19,98460849,21,6
+Disorder of cardiovascular system,134057,195562,Hemorrhoids,40805195,21,98118418,21,7
+Disorder of cardiovascular system,134057,321319,Cardiomyopathy,24360142,21,89230676,22,3
+Disorder of cardiovascular system,134057,443580,Systolic heart failure,10302615,14,86985666,14,4
+Disorder of cardiovascular system,134057,314054,Aortic valve disorder,42117456,20,85007116,22,3
+Disorder of cardiovascular system,134057,443587,Diastolic heart failure,14623622,15,84351503,15,4
+Disorder of cardiovascular system,134057,321318,Angina pectoris,55407408,22,82668974,22,4
+Disorder of cardiovascular system,134057,4185607,Embolism,32932,13,81737895,22,2
+Disorder of cardiovascular system,134057,4158911,Non-rheumatic heart valve disorder,4903050,13,72639261,19,3
+Disorder of cardiovascular system,134057,319844,Acute ischemic heart disease,2936090,19,68207265,22,4
+Disorder of cardiovascular system,134057,4311420,Vascular insufficiency,2971,3,65561933,22,2
+Disorder of cardiovascular system,134057,317002,Low blood pressure,44579994,22,65559594,22,1
+Disorder of cardiovascular system,134057,40479192,Chronic systolic heart failure,31198880,14,65437206,14,5
+Disorder of cardiovascular system,134057,312327,Acute myocardial infarction,14286747,21,65251593,22,5
+Disorder of cardiovascular system,134057,4102928,Obstruction of precerebral artery,1829,2,62248807,18,4
+Disorder of cardiovascular system,134057,442310,Acute heart failure,2576,3,61886736,19,4
+Disorder of cardiovascular system,134057,312339,Arterial embolism,2710,4,60378800,22,3
+Disorder of cardiovascular system,134057,40479576,Chronic diastolic heart failure,27261190,14,60288250,14,5
+Disorder of cardiovascular system,134057,4133004,Deep venous thrombosis,452857,7,59520169,22,4
+Disorder of cardiovascular system,134057,4154290,Paroxysmal atrial fibrillation,58588381,20,58588381,20,6
+Disorder of cardiovascular system,134057,320425,Heart block,885033,21,56446314,22,4
+Disorder of cardiovascular system,134057,4149782,Thrombosis of vein of lower limb,497244,13,55279662,20,5
+Disorder of cardiovascular system,134057,314666,Old myocardial infarction,55184923,19,55199388,19,5
+Disorder of cardiovascular system,134057,319034,Hypertensive heart disease without congestive heart failure,31899208,19,54195121,19,3
+Disorder of cardiovascular system,134057,443537,Deep venous thrombosis of lower extremity,390105,5,53821445,20,6
+Disorder of cardiovascular system,134057,4288310,Carotid artery obstruction,52200994,14,53046493,17,5
+Disorder of cardiovascular system,134057,440417,Pulmonary embolism,19798901,21,51651049,22,5
+Disorder of cardiovascular system,134057,315286,Chronic ischemic heart disease,49614768,20,49623418,20,4
+Disorder of cardiovascular system,134057,321596,Peripheral venous insufficiency,48190872,21,49192489,21,3
+Disorder of cardiovascular system,134057,4137275,Vasculitis,30656,5,46984466,22,2
+Disorder of cardiovascular system,134057,4230774,Heart valve regurgitation,6351,2,46452824,22,3
+Disorder of cardiovascular system,134057,44782746,Acute deep venous thrombosis,7637,3,45867607,14,5
+Disorder of cardiovascular system,134057,4332246,Aneurysm,1351667,18,45259045,22,1
+Disorder of cardiovascular system,134057,314658,Cardiomegaly,44567173,21,44569555,21,3
+Disorder of cardiovascular system,134057,4232495,Primary cardiomyopathy,44229320,12,44245146,14,4
+Disorder of cardiovascular system,134057,318169,Varicose veins of lower extremity,18633557,18,43085182,21,5
+Disorder of cardiovascular system,134057,312336,Arterial aneurysm,684308,17,42968850,22,3
+Disorder of cardiovascular system,134057,43531681,Acute deep vein thrombosis of lower limb,37222999,14,42313183,14,7
+Disorder of cardiovascular system,134057,4132130,Dilatation of aorta,751167,15,41283193,22,5
+Disorder of cardiovascular system,134057,315643,Tachyarrhythmia,7471,3,41169175,22,3
+Disorder of cardiovascular system,134057,321822,Peripheral vascular disorder due to diabetes mellitus,716547,20,40334564,21,3
+Disorder of cardiovascular system,134057,141124,Congenital anomaly of cardiovascular system,277904,19,40265400,22,2
+Disorder of cardiovascular system,134057,378735,Migraine without aura,28166557,21,40101552,21,4
+Disorder of cardiovascular system,134057,40491478,Abnormality of aortic valve,702,2,38265971,22,4
+Disorder of cardiovascular system,134057,373503,Transient cerebral ischemia,35836262,22,37677902,22,2
+Disorder of cardiovascular system,134057,317585,Aortic aneurysm,3585575,22,36824849,22,6
+Disorder of cardiovascular system,134057,40480603,Acute systolic heart failure,9012253,14,36517239,14,5
+Disorder of cardiovascular system,134057,443729,Peripheral circulatory disorder due to type 2 diabetes mellitus,35298934,19,35370087,19,4
+Disorder of cardiovascular system,134057,4141360,Chronic atrial fibrillation,35165469,16,35165469,16,6
+Disorder of cardiovascular system,134057,4176794,Congenital anomaly of cardiovascular structure of trunk,200,2,35068771,21,3
+Disorder of cardiovascular system,134057,318174,Phlebitis,38977,7,34564045,22,3
+Disorder of cardiovascular system,134057,316993,Tricuspid valve disorder,9463447,19,34125052,21,3
+Disorder of cardiovascular system,134057,40481042,Acute diastolic heart failure,7206043,14,33499763,14,5
+Disorder of cardiovascular system,134057,37110290,Disease of circulatory system complicating pregnancy childbirth and puerperium,187564,10,33259608,21,1
+Disorder of cardiovascular system,134057,317302,Sinus node dysfunction,22059662,15,32985253,21,5
+Disorder of cardiovascular system,134057,45768449,Hypertensive crisis,417505,14,32556528,17,2
+Disorder of cardiovascular system,134057,4195003,Heart valve stenosis,802,2,32331152,22,3
+Disorder of cardiovascular system,134057,4166844,Intraventricular conduction defect,394992,17,30849816,21,5
+Disorder of cardiovascular system,134057,313791,Bundle branch block,550285,17,30453575,21,6
+Disorder of cardiovascular system,134057,444101,Hypertensive heart failure,24865412,13,29552530,19,4
+Disorder of cardiovascular system,134057,314665,Atrial flutter,25520228,17,28888382,20,5
+Disorder of cardiovascular system,134057,43530605,Pulmonary embolism with pulmonary infarction,28765576,12,28765576,12,6
+Disorder of cardiovascular system,134057,43020424,Hypertensive emergency,1298885,14,28650930,17,3
+Disorder of cardiovascular system,134057,195556,Hypertensive heart AND renal disease,142650,15,28277407,19,3
+Disorder of cardiovascular system,134057,313792,Paroxysmal tachycardia,1677196,20,28153393,21,4
+Disorder of cardiovascular system,134057,4289933,Malignant hypertension,98288,6,27352045,17,4
+Disorder of cardiovascular system,134057,317898,Malignant essential hypertension,26992428,14,26992428,14,5
+Disorder of cardiovascular system,134057,443962,Mitral valve regurgitation,1565418,11,26977457,22,4
+Disorder of cardiovascular system,134057,4322024,Pulmonary hypertension,4883003,14,26649904,22,4
+Disorder of cardiovascular system,134057,40491455,Abnormality of abdominal aorta,1886,2,26251168,22,5
+Disorder of cardiovascular system,134057,315296,Preinfarction syndrome,25700612,22,25701543,22,5
+Disorder of cardiovascular system,134057,40486130,Dilatation of descending aorta,573470,14,25387806,22,6
+Disorder of cardiovascular system,134057,4103295,Ventricular tachycardia,9295702,21,25356215,22,2
+Disorder of cardiovascular system,134057,40480602,Acute on chronic systolic heart failure,17479435,14,25272193,14,6
+Disorder of cardiovascular system,134057,45769461,Non-rheumatic mitral valve disease,5525895,16,24849154,18,4
+Disorder of cardiovascular system,134057,37016191,Abdominal aortic ectasia,481549,14,24809987,22,7
+Disorder of cardiovascular system,134057,312723,Congenital heart disease,5339293,21,24619684,21,4
+Disorder of cardiovascular system,134057,4305210,Atrioventricular conduction disorder,1247,3,24509622,22,4
+Disorder of cardiovascular system,134057,316135,Atrioventricular block,1862280,20,24508375,22,5
+Disorder of cardiovascular system,134057,441039,Phlebitis of lower limb vein,5513,3,24474119,20,5
+Disorder of cardiovascular system,134057,4140448,Aneurysm of descending aorta,2618,3,24332787,22,7
+Disorder of cardiovascular system,134057,40481043,Acute on chronic diastolic heart failure,16268169,14,24060927,14,6
+Disorder of cardiovascular system,134057,4275423,Supraventricular tachycardia,12511785,21,23321775,22,4
+Disorder of cardiovascular system,134057,315273,Mitral valve stenosis,1159625,19,22830645,22,4
+Disorder of cardiovascular system,134057,4263504,Benign hypertensive heart disease,192278,8,22747959,14,3
+Disorder of cardiovascular system,134057,318549,Cardiac septal defects,86522,14,22443104,22,3
+Disorder of cardiovascular system,134057,4162038,Occlusion of artery,11044,5,21978161,22,3
+Disorder of cardiovascular system,134057,4048213,Heart valve stenosis and regurgitation,200,2,20373439,21,4
+Disorder of cardiovascular system,134057,381549,Migraine with aura,16111681,21,20112787,21,4
+Disorder of cardiovascular system,134057,313502,Benign hypertensive heart disease without congestive heart failure,20040041,14,20040041,14,4
+Disorder of cardiovascular system,134057,439415,Congenital vascular disorder,2155,2,19778718,22,2
+Disorder of cardiovascular system,134057,4267553,Congenital vascular malformation,2097,4,19737077,22,3
+Disorder of cardiovascular system,134057,443615,Refractory migraine,4484488,14,19504792,14,4
+Disorder of cardiovascular system,134057,314368,Mitral stenosis with insufficiency,504556,18,19301963,18,5
+Disorder of cardiovascular system,134057,4110937,Non-rheumatic mitral valve stenosis,534740,18,19177562,18,5
+Disorder of cardiovascular system,134057,4108815,Non-rheumatic mitral regurgitation,145697,5,18788519,13,5
+Disorder of cardiovascular system,134057,320741,Thrombophlebitis,208253,12,18728568,22,4
+Disorder of cardiovascular system,134057,45766207,Non-rheumatic mitral valve stenosis with regurgitation,18642822,13,18642822,13,6
+Disorder of cardiovascular system,134057,317309,Peripheral arterial occlusive disease,3931867,17,18319240,22,5
+Disorder of cardiovascular system,134057,4167493,Pregnancy-induced hypertension,3188577,18,18109820,21,3
+Disorder of cardiovascular system,134057,762752,Arteriosclerosis of aorta,186,1,17866125,20,5
+Disorder of cardiovascular system,134057,312934,Atherosclerosis of aorta,17842544,20,17865739,20,6
+Disorder of cardiovascular system,134057,439696,Hypertensive heart and renal disease with (congestive) heart failure,15416580,16,17771006,17,5
+Disorder of cardiovascular system,134057,316429,Premature beats,12620900,16,17508724,21,3
+Disorder of cardiovascular system,134057,4263712,Subendocardial ischemia,574,2,17504728,17,4
+Disorder of cardiovascular system,134057,765132,Subendocardial myocardial infarction,432,2,17504154,17,5
+Disorder of cardiovascular system,134057,444406,Acute subendocardial infarction,17503522,16,17503522,16,6
+Disorder of cardiovascular system,134057,434337,Retinal vascular disorder,1291712,19,17356723,21,2
+Disorder of cardiovascular system,134057,4108817,"Tricuspid valve disorder, non-rheumatic",11320160,17,17108431,18,4
+Disorder of cardiovascular system,134057,40481089,Embolism from thrombosis of vein of lower extremity,16949050,13,16949050,13,3
+Disorder of cardiovascular system,134057,44782719,Chronic combined systolic and diastolic heart failure,8966133,14,16758891,14,6
+Disorder of cardiovascular system,134057,4213379,Valvular sclerosis,200,2,16738158,15,3
+Disorder of cardiovascular system,134057,4152384,Non-rheumatic aortic sclerosis,16636382,13,16636382,13,6
+Disorder of cardiovascular system,134057,321042,Cardiac arrest,12498201,21,16540585,22,3
+Disorder of cardiovascular system,134057,4270024,Acute non-ST segment elevation myocardial infarction,16266072,18,16266072,18,6
+Disorder of cardiovascular system,134057,319041,Orthostatic hypotension,16093600,21,16129144,21,2
+Disorder of cardiovascular system,134057,312935,Venous hypertension,3392,4,15937621,22,3
+Disorder of cardiovascular system,134057,437579,Paroxysmal ventricular tachycardia,15715054,14,15715758,14,5
+Disorder of cardiovascular system,134057,316998,Left bundle branch block,11738801,21,15689001,21,7
+Disorder of cardiovascular system,134057,4119774,Arterial malformation,21496,16,15541103,21,4
+Disorder of cardiovascular system,134057,314059,Right bundle branch block,13311869,21,14801518,21,7
+Disorder of cardiovascular system,134057,199856,Varicose veins of lower extremity with inflammation,11086689,20,14346992,20,6
+Disorder of cardiovascular system,134057,4124706,Myocardial dysfunction,560,2,14042313,20,3
+Disorder of cardiovascular system,134057,4092936,Ischemic myocardial dysfunction,49891,4,13975186,20,4
+Disorder of cardiovascular system,134057,4110961,Generalized ischemic myocardial dysfunction,13897480,20,13897480,20,5
+Disorder of cardiovascular system,134057,4091901,Aberrant premature complexes,778754,17,13611189,21,3
+Disorder of cardiovascular system,134057,315564,Aortic valve regurgitation,709859,11,13432898,22,5
+Disorder of cardiovascular system,134057,319825,Rheumatic heart disease,773058,21,13103260,21,2
+Disorder of cardiovascular system,134057,4108234,Multiple valve disease,333835,17,12575268,19,3
+Disorder of cardiovascular system,134057,4227086,Hemorrhage of blood vessel,8900,2,12550884,22,2
+Disorder of cardiovascular system,134057,4278217,Arterial thrombosis,5168,4,12504615,22,3
+Disorder of cardiovascular system,134057,444097,Thrombophlebitis of lower extremities,1707058,19,12271054,20,5
+Disorder of cardiovascular system,134057,4164489,Carditis,867,2,12121762,22,3
+Disorder of cardiovascular system,134057,36717267,Ectasia of thoracic aorta,2554737,14,12027076,21,6
+Disorder of cardiovascular system,134057,4111570,Partial atrioventricular block,279,2,12018117,21,6
+Disorder of cardiovascular system,134057,4289309,Atrial septal defect,5160430,21,11990455,22,4
+Disorder of cardiovascular system,134057,443616,Refractory migraine without aura,6275747,14,11796286,14,5
+Disorder of cardiovascular system,134057,435829,Rheumatic disease of heart valve,2356617,16,11704160,20,3
+Disorder of cardiovascular system,134057,4013643,Pulmonary arterial hypertension,4373216,17,11098589,20,6
+Disorder of cardiovascular system,134057,4048520,Endocardial disease,58249,8,11045440,22,2
+Disorder of cardiovascular system,134057,4261842,Sick sinus syndrome,10881150,19,10918169,19,6
+Disorder of cardiovascular system,134057,441589,Endocarditis,76594,10,10873734,22,4
+Disorder of cardiovascular system,134057,317893,Paroxysmal supraventricular tachycardia,10693796,16,10760439,16,5
+Disorder of cardiovascular system,134057,320744,Complete atrioventricular block,10626624,22,10627978,22,6
+Disorder of cardiovascular system,134057,4339214,Secondary pulmonary hypertension,10384349,15,10446466,15,5
+Disorder of cardiovascular system,134057,4232697,Persistent atrial fibrillation,10238164,18,10242819,18,6
+Disorder of cardiovascular system,134057,320416,Diseases of mitral and aortic valves,1479717,17,10186878,19,4
+Disorder of cardiovascular system,134057,440392,Retinal vascular occlusion,796755,20,10035438,20,3
+Disorder of cardiovascular system,134057,44782718,Acute combined systolic and diastolic heart failure,2232793,14,10025551,14,6
+Disorder of cardiovascular system,134057,4313767,Chronic peripheral venous hypertension,4490084,14,10009246,14,4
+Disorder of cardiovascular system,134057,4322316,Congenital anomaly of heart valve,1052,9,9955452,21,5
+Disorder of cardiovascular system,134057,4278243,Cerebral arteriosclerosis,8584,3,9790294,20,4
+Disorder of cardiovascular system,134057,316437,Cerebral atherosclerosis,9781710,20,9781710,20,5
+Disorder of cardiovascular system,134057,40488825,Systemic vein obstruction,200,2,9563890,19,4
+Disorder of cardiovascular system,134057,4279525,Hypertension in the obstetric context,1777,3,9453368,19,2
+Disorder of cardiovascular system,134057,4311246,Pre-existing hypertension in obstetric context,1655281,15,9436891,19,3
+Disorder of cardiovascular system,134057,4159647,Thromboembolic disorder,63224,14,9435379,21,3
+Disorder of cardiovascular system,134057,4089462,Ventricular premature complex,9401601,19,9432171,21,4
+Disorder of cardiovascular system,134057,443622,Aneurysm of thoracic aorta,4265778,19,9394260,21,7
+Disorder of cardiovascular system,134057,319845,Pulmonary valve disorder,3054015,16,9306260,21,3
+Disorder of cardiovascular system,134057,443239,Precerebral arterial occlusion,748907,14,9289802,18,5
+Disorder of cardiovascular system,134057,4096099,Phlebitis of deep veins of lower extremity,5561,2,9193850,20,6
+Disorder of cardiovascular system,134057,4042396,Deep thrombophlebitis,575,3,9187142,20,5
+Disorder of cardiovascular system,134057,4187790,Thrombosis of retinal vein,6777,5,9121995,16,4
+Disorder of cardiovascular system,134057,43021632,Congenital abnormality of systemic artery,600,6,8872071,21,5
+Disorder of cardiovascular system,134057,319826,Secondary hypertension,5663500,19,8868815,20,2
+Disorder of cardiovascular system,134057,4296653,Acute ST segment elevation myocardial infarction,7582855,16,8809344,16,6
+Disorder of cardiovascular system,134057,4221821,Thrombophlebitis of deep veins of lower extremity,67467,9,8777026,20,6
+Disorder of cardiovascular system,134057,434462,Ventricular septal defect,5981063,21,8730630,21,4
+Disorder of cardiovascular system,134057,44784621,Hypertensive heart and chronic kidney disease,5165800,14,8714253,14,4
+Disorder of cardiovascular system,134057,4006971,Tricuspid valve regurgitation,447703,8,8567599,20,4
+Disorder of cardiovascular system,134057,4200991,Ischemia,3916,5,8303936,22,3
+Disorder of cardiovascular system,134057,374384,Cerebral ischemia,6440866,16,8228484,21,4
+Disorder of cardiovascular system,134057,199870,Renal vascular disorder,766819,19,8143075,22,3
+Disorder of cardiovascular system,134057,37111502,Stenosis of artery,31328,5,7977734,22,3
+Disorder of cardiovascular system,134057,442982,Left ventricular abnormality,360,3,7971154,21,4
+Disorder of cardiovascular system,134057,314379,First degree atrioventricular block,7841123,20,7841123,20,7
+Disorder of cardiovascular system,134057,4163710,Dilated cardiomyopathy,6924215,20,7793467,22,4
+Disorder of cardiovascular system,134057,44782733,Acute on chronic combined systolic and diastolic heart failure,7792758,14,7792758,14,7
+Disorder of cardiovascular system,134057,314962,Raynaud's disease,7493562,22,7493562,22,4
+Disorder of cardiovascular system,134057,24966,Esophageal varices,70423,13,7449323,22,6
+Disorder of cardiovascular system,134057,4111409,"Aortic incompetence, non-rheumatic",7343140,13,7345938,13,6
+Disorder of cardiovascular system,134057,439295,Multiple and bilateral precerebral arterial occlusion,7345676,14,7345676,14,6
+Disorder of cardiovascular system,134057,46273489,Thrombosis of vein of upper limb,215185,13,7320850,15,4
+Disorder of cardiovascular system,134057,439846,Left heart failure,7096843,21,7248548,21,4
+Disorder of cardiovascular system,134057,4207615,Thrombosis of vein of trunk,220506,14,7232390,22,4
+Disorder of cardiovascular system,134057,439393,Pre-eclampsia,4099005,21,7098274,21,4
+Disorder of cardiovascular system,134057,193250,Gastric hemorrhage,1197156,15,6784836,22,4
+Disorder of cardiovascular system,134057,434467,Ostium secundum type atrial septal defect,6715017,15,6715117,15,5
+Disorder of cardiovascular system,134057,312337,Arterial embolus and thrombosis,2512565,19,6647873,19,4
+Disorder of cardiovascular system,134057,44783618,Heritable pulmonary arterial hypertension,6557548,16,6558048,16,7
+Disorder of cardiovascular system,134057,377844,Status migrainosus,6441440,18,6500844,18,4
+Disorder of cardiovascular system,134057,4140207,Nephrosclerosis,1282310,14,6351629,20,4
+Disorder of cardiovascular system,134057,4232337,Valvular endocarditis,6262089,20,6319512,21,5
+Disorder of cardiovascular system,134057,314463,Congenital anomaly of aorta,434177,20,6279662,21,6
+Disorder of cardiovascular system,134057,4264033,Systemic vasculitis,685,2,6274264,21,3
+Disorder of cardiovascular system,134057,313928,Peripheral vascular complication,571620,14,6254089,19,1
+Disorder of cardiovascular system,134057,40490966,Abnormality of pulmonary valve,200,2,6224349,21,4
+Disorder of cardiovascular system,134057,4141106,Thrombosis of arteries of the extremities,200,2,6160812,20,6
+Disorder of cardiovascular system,134057,320746,Cardiomyopathy associated with another disorder,5085925,16,5962832,21,4
+Disorder of cardiovascular system,134057,192673,Vascular insufficiency of intestine,2056228,15,5962451,22,4
+Disorder of cardiovascular system,134057,192680,Portal hypertension,5921037,22,5921637,22,4
+Disorder of cardiovascular system,134057,316501,Vascular disease of the skin,430315,15,5896864,21,2
+Disorder of cardiovascular system,134057,321882,Generalized atherosclerosis,5618334,16,5618334,16,5
+Disorder of cardiovascular system,134057,4141827,Transformed migraine,3716,3,5529852,14,4
+Disorder of cardiovascular system,134057,43530652,Chronic intractable migraine without aura,5520539,14,5520539,14,6
+Disorder of cardiovascular system,134057,44782715,Chronic peripheral venous hypertension with lower extremity complication,5519162,13,5519162,13,5
+Disorder of cardiovascular system,134057,4111412,"Tricuspid incompetence, non-rheumatic",5404965,17,5457865,17,5
+Disorder of cardiovascular system,134057,314659,Arteritis,3372299,20,5410415,21,3
+Disorder of cardiovascular system,134057,4189343,Aortic valve stenosis,845964,9,5406441,22,5
+Disorder of cardiovascular system,134057,4146627,Non-proteinuric hypertension of pregnancy,1983,2,5352913,16,4
+Disorder of cardiovascular system,134057,441922,Transient hypertension of pregnancy,3433323,16,5350930,16,5
+Disorder of cardiovascular system,134057,315922,Patent ductus arteriosus,5152491,21,5152895,21,6
+Disorder of cardiovascular system,134057,312622,Venous retinal branch occlusion,4030443,14,5146093,14,5
+Disorder of cardiovascular system,134057,4049296,Congenital stenosis of cardiac valve,200,2,5069575,21,6
+Disorder of cardiovascular system,134057,4124693,Hypertrophic cardiomyopathy,3011449,22,5063711,22,4
+Disorder of cardiovascular system,134057,195834,Atherosclerosis of renal artery,5058964,20,5061198,20,5
+Disorder of cardiovascular system,134057,4222174,Rheumatic disease of mitral valve,1763124,13,4957766,19,4
+Disorder of cardiovascular system,134057,4012483,Congenital valvular insufficiency,200,2,4954393,20,6
+Disorder of cardiovascular system,134057,4143042,Ectopic beats,101505,4,4929306,16,3
+Disorder of cardiovascular system,134057,4077218,Superficial vein thrombosis,7690,5,4914792,17,4
+Disorder of cardiovascular system,134057,317305,Stricture of artery,4746985,20,4747585,20,4
+Disorder of cardiovascular system,134057,4121635,Arterial hemorrhage,200,2,4737531,22,3
+Disorder of cardiovascular system,134057,46272492,Dissection of artery,193772,14,4736225,22,4
+Disorder of cardiovascular system,134057,198571,Cardiogenic shock,4714196,20,4714196,20,2
+Disorder of cardiovascular system,134057,314378,Hypertensive heart disease with congestive heart failure,4087725,19,4687118,19,5
+Disorder of cardiovascular system,134057,4028057,Deep venous thrombosis of upper extremity,33462,5,4506074,15,5
+Disorder of cardiovascular system,134057,441872,Supraventricular premature beats,4402751,14,4403282,14,4
+Disorder of cardiovascular system,134057,4245646,Congenital septal defect of heart,66552,19,4303956,21,5
+Disorder of cardiovascular system,134057,4237912,"Aneurysm of artery, other than aorta",200,2,4299265,19,5
+Disorder of cardiovascular system,134057,318448,Second degree atrioventricular block,3285285,19,4176053,20,7
+Disorder of cardiovascular system,134057,4182110,Rheumatic heart valve regurgitation,200,2,4166161,19,4
+Disorder of cardiovascular system,134057,4185572,Ventricular arrhythmia,52469,7,4052075,22,3
+Disorder of cardiovascular system,134057,4236905,Thrombosis of arteries of lower extremity,3053085,14,4042605,15,7
+Disorder of cardiovascular system,134057,22340,Esophageal varices without bleeding,3985890,20,3985890,20,7
+Disorder of cardiovascular system,134057,4209011,Pulmonic valve stenosis,30644,6,3980438,21,5
+Disorder of cardiovascular system,134057,313761,Central retinal vein occlusion,3068076,14,3969025,14,5
+Disorder of cardiovascular system,134057,314423,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered",3896689,14,3896689,14,4
+Disorder of cardiovascular system,134057,4108659,Mitral and aortic incompetence,3880032,14,3880298,14,6
+Disorder of cardiovascular system,134057,4160899,Cardiac valve prolapse,207,2,3823240,20,3
+Disorder of cardiovascular system,134057,4252872,Mitral valve prolapse,3803524,20,3820456,20,4
+Disorder of cardiovascular system,134057,318775,Venous embolism,3313,3,3697204,19,3
+Disorder of cardiovascular system,134057,43022062,Cardiovascular system complication of procedure,196942,17,3681020,19,1
+Disorder of cardiovascular system,134057,316995,Coronary occlusion,37364,5,3637198,16,4
+Disorder of cardiovascular system,134057,4030224,Congenital anomaly of aortic valve,249,2,3617313,21,6
+Disorder of cardiovascular system,134057,313005,Congenital stenosis of pulmonary valve,1109114,18,3600225,21,7
+Disorder of cardiovascular system,134057,437894,Ventricular fibrillation,3548670,16,3558639,18,4
+Disorder of cardiovascular system,134057,4119460,Infective endocarditis,1684836,17,3555913,22,5
+Disorder of cardiovascular system,134057,44782421,Acute deep venous thrombosis of upper extremity,2979456,14,3546261,14,6
+Disorder of cardiovascular system,134057,44784638,Hypertensive heart AND chronic kidney disease stage 5,3538888,13,3538888,13,5
+Disorder of cardiovascular system,134057,321107,Congenital insufficiency of aortic valve,3537611,20,3537611,20,7
+Disorder of cardiovascular system,134057,4161701,Pericardial effusion,67995,5,3520082,21,2
+Disorder of cardiovascular system,134057,4319327,Thrombosis of pelvic vein,1016,3,3490489,20,5
+Disorder of cardiovascular system,134057,40481896,Hypertensive urgency,3488093,14,3488093,14,3
+Disorder of cardiovascular system,134057,4108814,Pericardial effusion - noninflammatory,3448722,19,3448722,19,3
+Disorder of cardiovascular system,134057,317003,Compression of vein,3427934,19,3433327,20,3
+Disorder of cardiovascular system,134057,37110370,Small vessel vasculitis,200,2,3411570,21,3
+Disorder of cardiovascular system,134057,438170,Acute myocardial infarction of inferior wall,3052862,21,3407283,21,6
+Disorder of cardiovascular system,134057,4101621,Right ventricular abnormality,682,3,3400496,21,4
+Disorder of cardiovascular system,134057,319921,Congenital pulmonary valve abnormality,278988,18,3399355,21,6
+Disorder of cardiovascular system,134057,4099994,Congenital abnormality of cardiac connection,272,2,3396164,21,5
+Disorder of cardiovascular system,134057,318566,Flushing,3367896,21,3374520,21,3
+Disorder of cardiovascular system,134057,4115173,Atrial premature complex,3258983,19,3335924,21,4
+Disorder of cardiovascular system,134057,4049466,Gastric ulcer with hemorrhage,4367,3,3277661,19,5
+Disorder of cardiovascular system,134057,193787,Varicose veins of lower extremity with ulcer AND inflammation,3260303,18,3260303,18,7
+Disorder of cardiovascular system,134057,372886,Refractory migraine with aura,3193892,14,3194092,14,5
+Disorder of cardiovascular system,134057,320739,Dissection of aorta,1061219,21,3044009,22,5
+Disorder of cardiovascular system,134057,372924,Cerebral artery occlusion,2491786,16,3043866,20,4
+Disorder of cardiovascular system,134057,4273632,Right ventricular failure,1692,4,3039262,19,4
+Disorder of cardiovascular system,134057,379806,Migraine variants,2374066,14,3012830,15,4
+Disorder of cardiovascular system,134057,4111566,Disorders of both mitral and tricuspid valves,1774459,17,2962830,17,4
+Disorder of cardiovascular system,134057,36712779,Chronic total occlusion of coronary artery,2948566,14,2948566,14,5
+Disorder of cardiovascular system,134057,36712971,Chronic deep venous thrombosis,139023,12,2942154,15,5
+Disorder of cardiovascular system,134057,4175807,Rheumatic disease of tricuspid valve,208960,14,2890416,15,4
+Disorder of cardiovascular system,134057,4183981,Malignant hypertensive heart disease,12481,8,2874200,14,3
+Disorder of cardiovascular system,134057,315282,Rheumatic disease of aortic valve,193080,18,2778575,19,4
+Disorder of cardiovascular system,134057,434376,Acute myocardial infarction of anterior wall,2751102,21,2752646,21,6
+Disorder of cardiovascular system,134057,4138837,Pericarditis,91227,18,2744816,22,2
+Disorder of cardiovascular system,134057,4307356,Cor pulmonale,31491,5,2744585,18,5
+Disorder of cardiovascular system,134057,4152156,Cardiovascular injury,299256,13,2740166,19,1
+Disorder of cardiovascular system,134057,4109870,Arterial insufficiency,14389,4,2689733,22,3
+Disorder of cardiovascular system,134057,4145489,Ventricular hypertrophy,3792,4,2687634,21,3
+Disorder of cardiovascular system,134057,4327889,Thromboembolism of vein,2663225,15,2663325,15,4
+Disorder of cardiovascular system,134057,4195677,Rheumatic tricuspid valve regurgitation,2640928,15,2661047,15,5
+Disorder of cardiovascular system,134057,321074,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",2619022,18,2619022,18,4
+Disorder of cardiovascular system,134057,4111998,Esophageal varices associated with another disorder,2511,8,2588242,14,7
+Disorder of cardiovascular system,134057,381316,Cerebrovascular accident,1485722,12,2560921,21,2
+Disorder of cardiovascular system,134057,321109,Congenital anomaly of coronary artery,2547087,19,2554051,19,7
+Disorder of cardiovascular system,134057,433471,Retinal neovascularization,2532822,14,2533822,14,3
+Disorder of cardiovascular system,134057,4119780,Congenital arteriovenous malformation,69801,14,2518835,22,4
+Disorder of cardiovascular system,134057,318712,Peripheral circulatory disorder due to type 1 diabetes mellitus,2518205,19,2518305,19,4
+Disorder of cardiovascular system,134057,4231591,Right ventricular hypertrophy,3508,4,2494519,21,5
+Disorder of cardiovascular system,134057,4244029,Congenital hypertrophy of cardiac ventricle,200,2,2491211,21,7
+Disorder of cardiovascular system,134057,201894,Acute vascular insufficiency of intestine,2247202,22,2481167,22,5
+Disorder of cardiovascular system,134057,321080,"Hypertension complicating pregnancy, childbirth and the puerperium",2452121,16,2456336,18,2
+Disorder of cardiovascular system,134057,4085025,Superficial thrombophlebitis,13445,4,2431167,17,5
+Disorder of cardiovascular system,134057,439698,Benign hypertensive heart disease with congestive cardiac failure,2424687,14,2424687,14,5
+Disorder of cardiovascular system,134057,314664,Long QT syndrome,2393061,14,2394801,15,4
+Disorder of cardiovascular system,134057,196444,Angiodysplasia of intestine,746408,14,2388951,19,4
+Disorder of cardiovascular system,134057,433536,Severe pre-eclampsia,905164,18,2383740,19,5
+Disorder of cardiovascular system,134057,40484167,Arteriosclerosis of artery of extremity,833388,14,2378180,17,4
+Disorder of cardiovascular system,134057,44782735,Chronic deep venous thrombosis of lower extremity,2364448,12,2376235,13,7
+Disorder of cardiovascular system,134057,434663,Acute endocarditis,360520,19,2375968,20,5
+Disorder of cardiovascular system,134057,44782728,Hypertensive heart AND chronic kidney disease with congestive heart failure,2354426,12,2354426,12,6
+Disorder of cardiovascular system,134057,42535714,Antineutrophil cytoplasmic antibody positive vasculitis,472,1,2299690,21,4
+Disorder of cardiovascular system,134057,4322565,Deep venous thrombosis of profunda femoris vein,4006,2,2294072,12,7
+Disorder of cardiovascular system,134057,4298329,Phlebitis of deep femoral vein,366,2,2290332,12,7
+Disorder of cardiovascular system,134057,4127089,Coronary artery spasm,1558330,19,2288822,21,4
+Disorder of cardiovascular system,134057,314369,Malignant hypertensive heart disease without congestive heart failure,2255872,14,2255872,14,4
+Disorder of cardiovascular system,134057,313223,Granulomatosis with polyangiitis,2022200,21,2185174,21,5
+Disorder of cardiovascular system,134057,443771,Renal hypertension,59825,8,2177840,20,3
+Disorder of cardiovascular system,134057,192763,Injury of blood vessel,72925,19,2162575,19,2
+Disorder of cardiovascular system,134057,4180943,Neonatal cardiovascular disorder,200,2,2140818,18,1
+Disorder of cardiovascular system,134057,317895,Renovascular hypertension,1631284,19,2114631,19,4
+Disorder of cardiovascular system,134057,320116,Acute pericarditis,1628980,19,2088793,19,3
+Disorder of cardiovascular system,134057,4211001,Chronic gastric ulcer with hemorrhage,710666,16,2079114,19,6
+Disorder of cardiovascular system,134057,44782732,Chronic pulmonary embolism,2049209,14,2053661,14,6
+Disorder of cardiovascular system,134057,199837,Portal vein thrombosis,2048958,22,2048958,22,5
+Disorder of cardiovascular system,134057,36714994,Typical atrial flutter,2048007,14,2048007,14,6
+Disorder of cardiovascular system,134057,4164092,Acute cerebrovascular insufficiency,269729,12,2044861,21,4
+Disorder of cardiovascular system,134057,316428,Hypertrophic obstructive cardiomyopathy,2042616,20,2042944,20,5
+Disorder of cardiovascular system,134057,321462,Cardiac complication,1654657,14,2025968,18,2
+Disorder of cardiovascular system,134057,314171,Low blood pressure reading,1968905,18,1969363,18,3
+Disorder of cardiovascular system,134057,372721,Congenital anomaly of cerebrovascular system,1163174,16,1964754,21,3
+Disorder of cardiovascular system,134057,4283084,Subacute endocarditis,395,3,1947338,21,5
+Disorder of cardiovascular system,134057,4108805,Acute and subacute endocarditis,217203,18,1935260,20,6
+Disorder of cardiovascular system,134057,4246484,Congenital hypoplasia of heart,200,2,1894317,19,5
+Disorder of cardiovascular system,134057,316795,Congenital anomaly of peripheral blood vessel,1055005,20,1853569,21,3
+Disorder of cardiovascular system,134057,137940,Transient hypertension of pregnancy - delivered,1851240,14,1851240,14,6
+Disorder of cardiovascular system,134057,440207,Hypoplastic left heart syndrome,1838310,19,1838310,19,6
+Disorder of cardiovascular system,134057,4173170,Neonatal dysrhythmia,1914,9,1809362,18,3
+Disorder of cardiovascular system,134057,312927,Acute cor pulmonale,1592779,18,1805183,18,6
+Disorder of cardiovascular system,134057,4131908,Peripheral angiopathy due to diabetes mellitus,1729625,12,1800878,12,4
+Disorder of cardiovascular system,134057,444055,Thrombophlebitis of superficial veins of lower extremity,1771194,16,1786609,16,6
+Disorder of cardiovascular system,134057,4041707,Gastric ulcer with hemorrhage but without obstruction,245,2,1775968,16,6
+Disorder of cardiovascular system,134057,4029831,Bacterial infectious disease of heart,200,2,1772774,19,3
+Disorder of cardiovascular system,134057,4228448,Bradyarrhythmia,8513,6,1757818,17,3
+Disorder of cardiovascular system,134057,4116649,Bacterial endocarditis,3141,4,1749452,18,6
+Disorder of cardiovascular system,134057,4175649,Thrombosis of the popliteal vein,1428,3,1735674,13,7
+Disorder of cardiovascular system,134057,43020873,Acute infective endocarditis,200,2,1720814,16,6
+Disorder of cardiovascular system,134057,196431,Hypersensitivity angiitis,569564,19,1686570,21,3
+Disorder of cardiovascular system,134057,4249899,Subacute bacterial endocarditis,11583,4,1670597,17,7
+Disorder of cardiovascular system,134057,435646,Congenital anomaly of pulmonary artery,1064575,19,1664562,19,5
+Disorder of cardiovascular system,134057,4078214,Rheumatic heart valve stenosis,200,2,1663906,19,4
+Disorder of cardiovascular system,134057,4250169,Bifascicular block,880001,20,1662618,21,7
+Disorder of cardiovascular system,134057,4009624,Acute bacterial endocarditis,2357,3,1661571,16,7
+Disorder of cardiovascular system,134057,432933,Aneurysm of artery of lower extremity,1619525,16,1634262,16,6
+Disorder of cardiovascular system,134057,321119,Coarctation of aorta,1561005,21,1562305,21,7
+Disorder of cardiovascular system,134057,315558,Atherosclerosis of arteries of the extremities,476714,6,1544792,17,5
+Disorder of cardiovascular system,134057,436136,Dissection of thoracic aorta,1193323,14,1543588,15,6
+Disorder of cardiovascular system,134057,196433,Aneurysm of iliac artery,1506825,17,1511137,17,6
+Disorder of cardiovascular system,134057,44782760,Acute thrombosis of superficial vein of upper extremity,1490385,14,1490585,14,6
+Disorder of cardiovascular system,134057,4040820,Rheumatic disease of mitral AND aortic valves,1481725,15,1482968,15,5
+Disorder of cardiovascular system,134057,319054,Thrombophlebitis of upper extremities,438065,14,1478519,14,5
+Disorder of cardiovascular system,134057,4111565,Disorders of both aortic and tricuspid valves,280096,16,1468467,17,4
+Disorder of cardiovascular system,134057,443522,Neonatal bradycardia,1444348,14,1444348,14,4
+Disorder of cardiovascular system,134057,4118910,Maternal hypertension,1441941,17,1442041,17,2
+Disorder of cardiovascular system,134057,199064,Chronic vascular insufficiency of intestine,1403705,19,1404198,19,5
+Disorder of cardiovascular system,134057,438438,Acute myocardial infarction of anterolateral wall,1366358,14,1366758,14,6
+Disorder of cardiovascular system,134057,4237202,Pulmonic valve regurgitation,42653,9,1347117,19,5
+Disorder of cardiovascular system,134057,4326746,Congenital anomaly of mitral valve,258,2,1325748,19,6
+Disorder of cardiovascular system,134057,313007,Congenital insufficiency of mitral valve,1322371,18,1322371,18,7
+Disorder of cardiovascular system,134057,4111416,"Pulmonary incompetence, non-rheumatic",1286529,13,1302492,13,6
+Disorder of cardiovascular system,134057,314383,Myocarditis,649652,21,1222211,22,4
+Disorder of cardiovascular system,134057,40479589,Takotsubo cardiomyopathy,1220706,15,1220706,15,4
+Disorder of cardiovascular system,134057,313224,Anomalous atrioventricular excitation,1208667,16,1208667,16,3
+Disorder of cardiovascular system,134057,4135052,Vascular anomaly of umbilical cord,200,2,1207419,14,3
+Disorder of cardiovascular system,134057,4300078,Velamentous insertion of umbilical cord,1202120,14,1202120,14,4
+Disorder of cardiovascular system,134057,320115,Mitral insufficiency and aortic stenosis,1200955,14,1201223,14,6
+Disorder of cardiovascular system,134057,4108235,"Combined disorders of mitral, aortic and tricuspid valves",1188371,17,1188371,17,5
+Disorder of cardiovascular system,134057,197018,Chronic gastric ulcer with hemorrhage but without obstruction,1140187,16,1176895,16,7
+Disorder of cardiovascular system,134057,4231580,Acute gastric ulcer with hemorrhage,444904,17,1173258,18,6
+Disorder of cardiovascular system,134057,432431,Discordant ventriculoarterial connection,472366,20,1162298,20,7
+Disorder of cardiovascular system,134057,4090039,Penile arterial insufficiency,1125991,13,1125991,13,4
+Disorder of cardiovascular system,134057,4146124,Autoimmune vasculitis,1857,2,1125615,21,3
+Disorder of cardiovascular system,134057,4101602,Henoch-SchÃ¶nlein purpura,1109503,21,1109603,21,4
+Disorder of cardiovascular system,134057,36715881,Angiodysplasia of small intestine,200,2,1086652,14,5
+Disorder of cardiovascular system,134057,40482685,Angiodysplasia of duodenum,1086452,14,1086452,14,6
+Disorder of cardiovascular system,134057,4310024,Angiodysplasia of stomach,1083216,14,1083216,14,4
+Disorder of cardiovascular system,134057,319047,Necrosis of artery,31082,19,1073577,20,4
+Disorder of cardiovascular system,134057,40483538,Atherosclerosis of bypass graft of limb,869902,14,1067502,14,5
+Disorder of cardiovascular system,134057,313543,Venous complication of pregnancy and/or the puerperium,387267,19,1061682,19,3
+Disorder of cardiovascular system,134057,4339013,Branch retinal vein occlusion with macular edema,1044310,12,1044310,12,6
+Disorder of cardiovascular system,134057,4043737,Dissection of cervicocerebral artery,200,2,1038784,18,5
+Disorder of cardiovascular system,134057,318776,Rheumatic mitral regurgitation,877634,19,1032653,19,5
+Disorder of cardiovascular system,134057,37016888,Dissection of precerebral artery,3029,12,1032241,16,6
+Disorder of cardiovascular system,134057,321886,Rupture of artery,105704,19,1024227,21,4
+Disorder of cardiovascular system,134057,40481852,Septic embolus of artery,195827,14,1016570,14,4
+Disorder of cardiovascular system,134057,4258139,Vascular insufficiency of limb,1042,2,1001653,19,3
+Disorder of cardiovascular system,134057,193249,Acute hemorrhagic gastritis,1001522,20,1001522,20,6
+Disorder of cardiovascular system,134057,4121644,Venous insufficiency of leg,50129,3,1000209,19,5
+Disorder of cardiovascular system,134057,4181705,Varicose veins of lower extremity without ulcer AND without inflammation,990861,6,990861,6,6
+Disorder of cardiovascular system,134057,4014159,Chronic right-sided heart failure,71667,11,981933,13,5
+Disorder of cardiovascular system,134057,4111099,Aortic valve stenosis with insufficiency,818947,20,980399,21,6
+Disorder of cardiovascular system,134057,4184499,Congenital anomaly of tricuspid valve,143780,17,963524,21,6
+Disorder of cardiovascular system,134057,4323778,Thrombosis of superficial vein of lower limb,944771,14,960737,14,6
+Disorder of cardiovascular system,134057,141084,Pre-eclampsia or eclampsia with pre-existing hypertension,419049,16,960129,16,4
+Disorder of cardiovascular system,134057,4120116,Secondary venous insufficiency of leg,257,2,949979,19,6
+Disorder of cardiovascular system,134057,4070679,Postthrombotic syndrome,949722,19,949722,19,7
+Disorder of cardiovascular system,134057,316478,"Heart disease in mother complicating pregnancy, childbirth AND/OR puerperium",764153,16,949313,16,2
+Disorder of cardiovascular system,134057,316457,Mallory-Weiss syndrome,943873,20,943873,20,5
+Disorder of cardiovascular system,134057,4234480,Arteriovenous fistula,394768,17,943756,20,2
+Disorder of cardiovascular system,134057,42537043,CLABSI - central line associated bloodstream infection,943620,11,943720,11,2
+Disorder of cardiovascular system,134057,197444,Vascular complication of medical care,940169,16,940169,16,2
+Disorder of cardiovascular system,134057,4124866,Venous hemorrhage,289,2,936847,21,3
+Disorder of cardiovascular system,134057,438168,Aneurysm of heart,920078,20,931365,20,3
+Disorder of cardiovascular system,134057,4270502,Injury of artery,280,2,928255,18,3
+Disorder of cardiovascular system,134057,438452,Phlebitis of superficial veins of lower extremity,911769,16,927764,16,6
+Disorder of cardiovascular system,134057,36712986,Atypical atrial flutter,926915,14,926915,14,6
+Disorder of cardiovascular system,134057,317577,Arteriosclerotic gangrene,925966,13,925966,13,5
+Disorder of cardiovascular system,134057,376394,Menstrual migraine,850335,15,909839,15,4
+Disorder of cardiovascular system,134057,4195892,Chronic cor pulmonale,907478,13,907478,13,6
+Disorder of cardiovascular system,134057,36713113,Saddle embolus of pulmonary artery,691055,14,903459,14,6
+Disorder of cardiovascular system,134057,438490,Severe pre-eclampsia - delivered,902826,14,902826,14,6
+Disorder of cardiovascular system,134057,4170620,Aortic thromboembolism,123536,18,902103,19,6
+Disorder of cardiovascular system,134057,4043734,Carotid territory transient ischemic attack,3077,2,894553,20,6
+Disorder of cardiovascular system,134057,4057008,Accelerated atrioventricular conduction,797214,15,893343,19,3
+Disorder of cardiovascular system,134057,4117771,Aneurysm of head and neck artery,40370,12,886277,19,6
+Disorder of cardiovascular system,134057,4120275,Drug-induced hypotension,886220,17,886220,17,2
+Disorder of cardiovascular system,134057,439694,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,883364,17,883364,17,5
+Disorder of cardiovascular system,134057,4110154,Injury of systemic artery,30657,13,881987,18,4
+Disorder of cardiovascular system,134057,444264,Thrombosis of iliac artery,316331,15,877620,16,6
+Disorder of cardiovascular system,134057,374371,Stenosis of precerebral artery,8922,4,875390,11,4
+Disorder of cardiovascular system,134057,4176099,Tricuspid valve stenosis,1726,6,862827,19,4
+Disorder of cardiovascular system,134057,4048785,Vertebrobasilar territory transient ischemic attack,1218,2,861585,21,6
+Disorder of cardiovascular system,134057,374055,Basilar artery syndrome,860367,21,860367,21,7
+Disorder of cardiovascular system,134057,4049072,Ruptured aneurysm of artery,274,2,847576,21,5
+Disorder of cardiovascular system,134057,442615,Carotid artery stenosis,795873,6,845403,8,5
+Disorder of cardiovascular system,134057,313226,Carotid artery occlusion,791385,16,845399,16,6
+Disorder of cardiovascular system,134057,4179992,Cardiovascular system hereditary disorder,200,2,842899,21,1
+Disorder of cardiovascular system,134057,313800,Thrombotic microangiopathy,830087,18,841608,19,4
+Disorder of cardiovascular system,134057,314381,Acute febrile mucocutaneous lymph node syndrome,841521,21,841521,21,5
+Disorder of cardiovascular system,134057,4173464,Rupture of aorta,312,2,840016,21,7
+Disorder of cardiovascular system,134057,42872390,Nonischemic congestive cardiomyopathy,31146,3,837494,20,5
+Disorder of cardiovascular system,134057,4313828,Rheumatic mitral stenosis,678755,15,833481,15,5
+Disorder of cardiovascular system,134057,314457,Congenital stenosis of aortic valve,830119,18,832233,18,7
+Disorder of cardiovascular system,134057,4339010,Central retinal vein occlusion with macular edema,828585,13,828585,13,6
+Disorder of cardiovascular system,134057,4071896,Secondary dilated cardiomyopathy,3843,3,827926,21,5
+Disorder of cardiovascular system,134057,4170972,Perinatal cardiovascular disorders,296426,17,826556,20,1
+Disorder of cardiovascular system,134057,40479606,Septic pulmonary embolism,820643,14,820643,14,6
+Disorder of cardiovascular system,134057,197087,Vascular hamartomas,808097,16,808297,16,2
+Disorder of cardiovascular system,134057,433195,Transient arterial retinal occlusion,805064,18,805064,18,4
+Disorder of cardiovascular system,134057,28779,Bleeding esophageal varices,800587,18,800587,18,7
+Disorder of cardiovascular system,134057,436642,Behcet's syndrome,798558,21,799958,21,5
+Disorder of cardiovascular system,134057,44783568,Secondary nonischemic congestive cardiomyopathy,1283,2,796368,20,6
+Disorder of cardiovascular system,134057,314103,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered",793694,14,793694,14,4
+Disorder of cardiovascular system,134057,4119775,Venous malformation,3025,3,793668,19,3
+Disorder of cardiovascular system,134057,4175582,Congenital abnormality of vein,328,3,790343,19,4
+Disorder of cardiovascular system,134057,313221,Rheumatic aortic stenosis,630407,19,789497,19,6
+Disorder of cardiovascular system,134057,4256889,Dissection of abdominal aorta,439102,14,786176,14,7
+Disorder of cardiovascular system,134057,4121803,Cerebral arteriovenous malformation,784195,20,784621,20,5
+Disorder of cardiovascular system,134057,42538532,Thrombus of cardiac chamber,103,1,783240,18,3
+Disorder of cardiovascular system,134057,193793,Aneurysm of visceral artery,117497,14,775720,16,5
+Disorder of cardiovascular system,134057,4185117,Vertebral artery obstruction,755982,15,770270,18,5
+Disorder of cardiovascular system,134057,313232,Hemodialysis-associated hypotension,769626,14,769626,14,2
+Disorder of cardiovascular system,134057,4190773,Restrictive cardiomyopathy,447134,16,764037,19,4
+Disorder of cardiovascular system,134057,4334245,Retinal artery occlusion,18562,10,762043,20,4
+Disorder of cardiovascular system,134057,317890,Mitral and aortic stenosis,751301,14,751301,14,6
+Disorder of cardiovascular system,134057,44782752,Acute deep venous thrombosis of internal jugular vein,748412,14,748612,14,6
+Disorder of cardiovascular system,134057,435912,Endocardial cushion defect,746511,14,747270,14,6
+Disorder of cardiovascular system,134057,4253808,Congenital atresia of aorta,43919,18,746248,19,7
+Disorder of cardiovascular system,134057,4203836,Thrombosis of subclavian vein,5596,6,743773,14,5
+Disorder of cardiovascular system,134057,437540,Central retinal artery occlusion,743481,19,743481,19,5
+Disorder of cardiovascular system,134057,4222639,Thrombosis of vena cava,674,4,737119,19,5
+Disorder of cardiovascular system,134057,4175603,Embolism of vena cava,200,2,732580,19,4
+Disorder of cardiovascular system,134057,435565,Embolism and thrombosis of the vena cava,732380,19,732380,19,6
+Disorder of cardiovascular system,134057,315830,Prinzmetal angina,730492,15,730492,15,5
+Disorder of cardiovascular system,134057,40491477,Abnormality of aortic arch,267,2,724547,20,6
+Disorder of cardiovascular system,134057,437544,Arterial retinal branch occlusion,723320,14,724390,14,4
+Disorder of cardiovascular system,134057,4083797,Telangiectasia disorder,25136,4,717459,21,3
+Disorder of cardiovascular system,134057,4207899,Deep venous thrombosis of tibial vein,1236,3,716313,13,7
+Disorder of cardiovascular system,134057,4062247,Congenital stenosis of aorta,265,2,703144,14,7
+Disorder of cardiovascular system,134057,4266200,Cutaneous vascular malformation,604,2,680345,20,4
+Disorder of cardiovascular system,134057,439695,Hypertensive heart and renal disease with renal failure,667399,17,667399,17,4
+Disorder of cardiovascular system,134057,43020460,Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery,664906,13,664906,13,7
+Disorder of cardiovascular system,134057,315832,Angina decubitus,660891,13,660891,13,5
+Disorder of cardiovascular system,134057,4179911,Axillary vein thrombosis,92854,15,659459,15,6
+Disorder of cardiovascular system,134057,313504,Osler hemorrhagic telangiectasia syndrome,658341,19,658341,19,6
+Disorder of cardiovascular system,134057,314958,Benign secondary hypertension,330246,13,657403,13,3
+Disorder of cardiovascular system,134057,4101488,"Abnormality of atrioventricular (non-mitral, non-tricuspid) valve",200,2,651841,18,4
+Disorder of cardiovascular system,134057,318450,Cardiac tamponade,648895,15,648895,15,3
+Disorder of cardiovascular system,134057,4100152,Atrioventricular septal defect and common atrioventricular junction,646613,18,647813,18,7
+Disorder of cardiovascular system,134057,4109340,Aortic valve cusp abnormality,211,2,647264,21,5
+Disorder of cardiovascular system,134057,4237062,Mural thrombus of heart,634848,18,645957,18,4
+Disorder of cardiovascular system,134057,44784623,Acute coronary artery occlusion not resulting in myocardial infarction,645808,12,645808,12,5
+Disorder of cardiovascular system,134057,44782762,Acute thrombosis of subclavian vein,640349,14,640649,14,6
+Disorder of cardiovascular system,134057,433218,Thrombophlebitis of superficial veins of upper extremities,629853,14,630713,14,6
+Disorder of cardiovascular system,134057,443619,Refractory migraine variants,629617,13,629717,13,5
+Disorder of cardiovascular system,134057,4159140,Thrombotic stroke,9369,5,623613,18,3
+Disorder of cardiovascular system,134057,318773,Dilated cardiomyopathy secondary to alcohol,616453,20,616453,20,7
+Disorder of cardiovascular system,134057,197039,Male genital organ vascular diseases,616199,20,616199,20,4
+Disorder of cardiovascular system,134057,4111711,Cerebellar stroke syndrome,613744,16,613744,16,4
+Disorder of cardiovascular system,134057,314090,Mild pre-eclampsia,613669,14,613669,14,5
+Disorder of cardiovascular system,134057,316447,Chronic hypotension,594495,15,600130,15,2
+Disorder of cardiovascular system,134057,316994,Malignant hypertensive heart disease with congestive heart failure,599393,14,599393,14,6
+Disorder of cardiovascular system,134057,193795,Acute gastric ulcer with hemorrhage but without obstruction,563384,14,598587,14,7
+Disorder of cardiovascular system,134057,441874,Cerebral thrombosis,583219,14,583619,14,5
+Disorder of cardiovascular system,134057,4223670,Thrombosis of abdominal aorta,512,2,582410,19,6
+Disorder of cardiovascular system,134057,198446,Embolism and thrombosis of the abdominal aorta,581598,19,581598,19,7
+Disorder of cardiovascular system,134057,44782751,Acute deep venous thrombosis of axillary vein,566305,14,566405,14,7
+Disorder of cardiovascular system,134057,192657,Embolism of iliac artery,300,3,561189,14,7
+Disorder of cardiovascular system,134057,44782712,Acute myocardial infarction due to right coronary artery occlusion,200,2,558549,13,6
+Disorder of cardiovascular system,134057,46270163,Acute ST segment elevation myocardial infarction due to right coronary artery occlusion,558349,13,558349,13,7
+Disorder of cardiovascular system,134057,4055201,Angiodysplasia of colon,555088,17,555891,18,5
+Disorder of cardiovascular system,134057,4136335,Thrombosis of arteries of upper extremity,550727,14,553071,14,7
+Disorder of cardiovascular system,134057,378774,Moyamoya disease,551381,18,551381,18,2
+Disorder of cardiovascular system,134057,36714644,Atresia of pulmonary valve,200,2,541617,18,5
+Disorder of cardiovascular system,134057,318445,Post cardiac operation functional disturbance,498451,19,540959,19,3
+Disorder of cardiovascular system,134057,320206,Congenital atresia of pulmonary valve,539523,18,540614,18,7
+Disorder of cardiovascular system,134057,438447,Acute myocardial infarction of inferolateral wall,539884,14,540084,14,6
+Disorder of cardiovascular system,134057,4108742,Ascending aorta abnormality,162,1,538719,17,6
+Disorder of cardiovascular system,134057,4067424,Polyarteritis,351,2,534906,21,4
+Disorder of cardiovascular system,134057,320749,Polyarteritis nodosa,425536,20,532798,21,5
+Disorder of cardiovascular system,134057,134760,Perinatal cyanotic attacks,529530,20,529530,20,2
+Disorder of cardiovascular system,134057,4140462,Cerebral vasculitis,736,3,512108,19,2
+Disorder of cardiovascular system,134057,4338523,Amaurosis fugax,499078,19,500916,19,7
+Disorder of cardiovascular system,134057,200451,Chronic passive congestion of liver,500432,19,500432,19,4
+Disorder of cardiovascular system,134057,4006984,Congenital anomaly of pulmonary veins,9949,14,485901,18,5
+Disorder of cardiovascular system,134057,194393,Celiac artery compression syndrome,484037,18,484037,18,4
+Disorder of cardiovascular system,134057,4308814,Neoplasm of heart,381,2,475975,20,3
+Disorder of cardiovascular system,134057,4110948,Hypertension secondary to endocrine disorder,473395,17,473395,17,3
+Disorder of cardiovascular system,134057,4108596,Aortic cusp regurgitation,892,2,473119,19,6
+Disorder of cardiovascular system,134057,439834,Rheumatic aortic regurgitation,313166,19,472227,19,6
+Disorder of cardiovascular system,134057,440738,Phlebitis of the femoral vein,400393,16,466154,18,7
+Disorder of cardiovascular system,134057,36712772,Acquired arteriovenous fistula,448842,12,463325,14,3
+Disorder of cardiovascular system,134057,4317288,Pulmonary artery stenosis,459253,19,461560,19,4
+Disorder of cardiovascular system,134057,440736,Endocarditis associated with another disorder,203289,15,457592,19,5
+Disorder of cardiovascular system,134057,4112334,Idiopathic hypotension,457408,17,457408,17,2
+Disorder of cardiovascular system,134057,201164,Injury of blood vessels of upper extremity,134888,18,453625,18,3
+Disorder of cardiovascular system,134057,4052213,Injury to blood vessels of lower limb,663,4,446493,19,4
+Disorder of cardiovascular system,134057,44782819,Chronic occlusion of artery of extremity,443856,13,443856,13,6
+Disorder of cardiovascular system,134057,433015,Congenital anomaly of aortic arch,218156,16,439038,16,7
+Disorder of cardiovascular system,134057,315295,Congestive rheumatic heart failure,437901,14,438001,14,6
+Disorder of cardiovascular system,134057,4263510,Congenital stenosis of tricuspid valve,140962,18,436937,19,7
+Disorder of cardiovascular system,134057,375557,Cerebral embolism,383089,15,433608,15,5
+Disorder of cardiovascular system,134057,196715,Budd-Chiari syndrome,427945,19,427945,19,5
+Disorder of cardiovascular system,134057,315293,Acute idiopathic pericarditis,426190,18,426190,18,4
+Disorder of cardiovascular system,134057,441246,Hemangioma of intracranial structure,423961,14,425736,14,2
+Disorder of cardiovascular system,134057,44782741,Chronic deep venous thrombosis of upper extremity,423456,14,423856,14,6
+Disorder of cardiovascular system,134057,313011,Congenital malposition of heart,285368,14,421158,20,5
+Disorder of cardiovascular system,134057,4066289,Ventricular premature beats,415782,5,420291,5,4
+Disorder of cardiovascular system,134057,4308861,Mechanical complication of arteriovenous surgical fistula,419476,13,419476,13,3
+Disorder of cardiovascular system,134057,4258295,Embolism from thrombosis of vein of distal lower extremity,418571,13,418571,13,3
+Disorder of cardiovascular system,134057,435887,Antepartum deep vein thrombosis,394561,18,415997,18,5
+Disorder of cardiovascular system,134057,4223518,Thromboangiitis,200,2,414041,20,5
+Disorder of cardiovascular system,134057,312939,Thromboangiitis obliterans,413841,20,413841,20,6
+Disorder of cardiovascular system,134057,440750,Thrombophlebitis of deep veins of upper extremities,409441,14,409541,14,6
+Disorder of cardiovascular system,134057,433763,Hemiplegic migraine,406543,16,406985,16,5
+Disorder of cardiovascular system,134057,4108217,Subsequent myocardial infarction,10048,14,405739,17,5
+Disorder of cardiovascular system,134057,314147,Anomalies of great veins,347880,18,398601,18,5
+Disorder of cardiovascular system,134057,194385,Aneurysm of renal artery,394940,16,395447,16,6
+Disorder of cardiovascular system,134057,4112020,Carotid artery syndrome hemispheric,390560,18,390560,18,7
+Disorder of cardiovascular system,134057,376714,Vertebrobasilar artery syndrome,389073,14,389073,14,4
+Disorder of cardiovascular system,134057,4111413,"Tricuspid stenosis, non-rheumatic",330406,17,383306,17,5
+Disorder of cardiovascular system,134057,4069183,Subaortic stenosis,1517,2,382358,18,5
+Disorder of cardiovascular system,134057,4101161,Tricuspid leaflet abnormality,200,2,372858,19,4
+Disorder of cardiovascular system,134057,4147787,Supravalvar aortic stenosis,371513,15,372563,15,7
+Disorder of cardiovascular system,134057,321638,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium",362859,14,362859,14,4
+Disorder of cardiovascular system,134057,4121640,Arterial steal syndrome,926,2,362649,15,3
+Disorder of cardiovascular system,134057,433505,Subclavian steal syndrome,360114,15,360214,15,4
+Disorder of cardiovascular system,134057,4108832,Atrial fibrillation and flutter,357391,15,357391,15,6
+Disorder of cardiovascular system,134057,317814,Benign neoplasm of heart,356182,19,356696,19,4
+Disorder of cardiovascular system,134057,441579,Acute myocardial infarction of inferoposterior wall,352731,14,352731,14,6
+Disorder of cardiovascular system,134057,44782470,Migraine with persistent visual aura,348217,14,348217,14,5
+Disorder of cardiovascular system,134057,4108233,"Pulmonary stenosis, non-rheumatic",331741,15,347704,15,6
+Disorder of cardiovascular system,134057,195398,Injury of blood vessels of head AND/OR neck,320112,19,344881,19,3
+Disorder of cardiovascular system,134057,45766215,Arteriovenous malformation of trunk,340854,13,343932,13,5
+Disorder of cardiovascular system,134057,43021830,Postoperative hypertension,343865,13,343865,13,2
+Disorder of cardiovascular system,134057,321320,Myocardial degeneration,339654,20,340054,20,4
+Disorder of cardiovascular system,134057,434146,Common ventricle,335584,14,336084,14,7
+Disorder of cardiovascular system,134057,437308,Basilar artery occlusion,335432,16,335532,16,6
+Disorder of cardiovascular system,134057,4172822,Cardiac arrest due to cardiac disorder,334466,13,334466,13,4
+Disorder of cardiovascular system,134057,4154293,Rheumatic heart valve stenosis with insufficiency,200,2,333358,18,5
+Disorder of cardiovascular system,134057,74564,Rubella arthritis,332967,14,332967,14,3
+Disorder of cardiovascular system,134057,4249016,Benign secondary renovascular hypertension,327157,13,327157,13,5
+Disorder of cardiovascular system,134057,441555,Retinal telangiectasia,321663,15,322310,15,3
+Disorder of cardiovascular system,134057,132685,Severe pre-eclampsia - not delivered,319359,14,319359,14,6
+Disorder of cardiovascular system,134057,437847,Partial retinal artery occlusion,319357,14,319357,14,4
+Disorder of cardiovascular system,134057,4134723,Coronary artery thrombosis,953,2,319149,17,4
+Disorder of cardiovascular system,134057,443523,Neonatal tachycardia,318347,14,318347,14,4
+Disorder of cardiovascular system,134057,4108215,Coronary thrombosis not resulting in myocardial infarction,317148,17,317148,17,5
+Disorder of cardiovascular system,134057,436706,Acute myocardial infarction of lateral wall,316018,14,316718,14,6
+Disorder of cardiovascular system,134057,4116717,Injury of artery of lower limb,11438,15,313755,18,5
+Disorder of cardiovascular system,134057,135601,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered,311344,14,311344,14,5
+Disorder of cardiovascular system,134057,321037,Cholesterol embolus syndrome,31571,13,304837,14,4
+Disorder of cardiovascular system,134057,4324395,Aortitis,16407,14,304059,20,5
+Disorder of cardiovascular system,134057,432890,Microaneurysm of retinal artery,302458,14,303409,14,7
+Disorder of cardiovascular system,134057,4316228,Congenital arteriovenous malformation of gastrointestinal tract,300182,12,303060,12,6
+Disorder of cardiovascular system,134057,316427,Aneurysm of coronary vessels,301611,16,301811,16,5
+Disorder of cardiovascular system,134057,4242741,Anomalous pulmonary venous drainage,10262,16,301311,18,6
+Disorder of cardiovascular system,134057,4049318,Thrombosis of renal vein,1863,5,298279,19,5
+Disorder of cardiovascular system,134057,4269199,Congenital atresia of tricuspid valve,1955,3,297930,14,7
+Disorder of cardiovascular system,134057,37115756,Dissection of coronary artery,297153,14,297153,14,5
+Disorder of cardiovascular system,134057,4191250,Embolism of renal vein,570,4,296986,18,4
+Disorder of cardiovascular system,134057,193512,Embolism and thrombosis of the renal vein,296416,18,296416,18,6
+Disorder of cardiovascular system,134057,4112023,Occlusion and stenosis of middle cerebral artery,290456,15,290680,15,6
+Disorder of cardiovascular system,134057,438600,Injury of blood vessels of abdomen AND/OR pelvis,31271,18,290522,18,3
+Disorder of cardiovascular system,134057,439399,Endomyocardial fibrosis,289890,14,289890,14,3
+Disorder of cardiovascular system,134057,432432,Total anomalous pulmonary venous return,289292,18,289592,18,7
+Disorder of cardiovascular system,134057,4182711,Vasculitis of the skin,235209,19,285560,19,3
+Disorder of cardiovascular system,134057,4237824,Gastric varices,281394,18,282033,19,6
+Disorder of cardiovascular system,134057,440740,Takayasu's disease,281277,20,281277,20,7
+Disorder of cardiovascular system,134057,4311280,Injury of heart,19804,16,278235,18,3
+Disorder of cardiovascular system,134057,45766121,Cerebral vasoconstriction syndrome,225307,12,271288,13,2
+Disorder of cardiovascular system,134057,312653,Acute myocarditis,223197,18,269842,18,5
+Disorder of cardiovascular system,134057,4246665,Hemangioma of skin,72289,3,269548,15,3
+Disorder of cardiovascular system,134057,434656,Vertebral artery syndrome,268702,14,268702,14,4
+Disorder of cardiovascular system,134057,4171683,Sinus bradycardia,250641,4,265034,4,5
+Disorder of cardiovascular system,134057,433225,Ventricular flutter,254066,14,263586,16,3
+Disorder of cardiovascular system,134057,4113802,Injury of systemic artery of trunk,200,2,263252,18,5
+Disorder of cardiovascular system,134057,318437,Malignant secondary hypertension,105461,13,261229,14,5
+Disorder of cardiovascular system,134057,194964,Aneurysm of splenic artery,259506,14,259506,14,6
+Disorder of cardiovascular system,134057,4275428,Injury of vein,200,2,257023,19,3
+Disorder of cardiovascular system,134057,4076794,Peripheral arteriovenous malformation,248096,18,248096,18,6
+Disorder of cardiovascular system,134057,314478,Abnormal fetal heart beat first noted during labor AND/OR delivery in liveborn infant,247705,14,247705,14,2
+Disorder of cardiovascular system,134057,443407,Lower limb arterial embolus,3412,3,243201,14,7
+Disorder of cardiovascular system,134057,436403,Retinal vasculitis,239015,14,240215,15,3
+Disorder of cardiovascular system,134057,4319280,Acute bowel infarction,233516,13,233516,13,4
+Disorder of cardiovascular system,134057,4087597,Gammaherpesviral mononucleosis,233245,18,233245,18,3
+Disorder of cardiovascular system,134057,313500,Acute rheumatic heart disease,99634,17,228203,19,2
+Disorder of cardiovascular system,134057,43531599,Carotid sinus hypersensitivity,200,2,225481,14,5
+Disorder of cardiovascular system,134057,436392,Carotid sinus syncope,225281,14,225281,14,6
+Disorder of cardiovascular system,134057,4039691,Necrotizing vasculitis,95594,15,224194,18,3
+Disorder of cardiovascular system,134057,4102124,Carotid atherosclerosis,210933,3,223248,3,6
+Disorder of cardiovascular system,134057,438778,Aneurysm of artery of upper extremity,221272,16,222239,16,6
+Disorder of cardiovascular system,134057,4121629,Carotid artery aneurysm,214927,15,222160,15,7
+Disorder of cardiovascular system,134057,136743,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered,221192,14,221192,14,5
+Disorder of cardiovascular system,134057,439037,Aneurysm of artery of neck,220353,14,220553,14,7
+Disorder of cardiovascular system,134057,4111710,Brainstem stroke syndrome,217939,16,219999,16,3
+Disorder of cardiovascular system,134057,4175786,Ophthalmoplegic migraine,186108,15,215734,15,4
+Disorder of cardiovascular system,134057,35615055,Saddle embolus of pulmonary artery with acute cor pulmonale,212404,9,212404,9,7
+Disorder of cardiovascular system,134057,45766241,Subsequent non-ST segment elevation myocardial infarction,211747,13,211747,13,6
+Disorder of cardiovascular system,134057,321710,Contusion to heart,202406,14,205810,14,5
+Disorder of cardiovascular system,134057,321041,Mitral stenosis and aortic insufficiency,203534,14,203775,14,6
+Disorder of cardiovascular system,134057,4201023,Congenital conduction defect,200,2,201939,19,4
+Disorder of cardiovascular system,134057,4180636,Cardiac complication of procedure,26357,11,201156,15,2
+Disorder of cardiovascular system,134057,315069,Congenital heart block,200942,19,200942,19,5
+Disorder of cardiovascular system,134057,313006,Congenital stenosis of mitral valve,199680,18,199980,19,7
+Disorder of cardiovascular system,134057,4181314,Thrombosis of thoracic aorta,220,2,197189,14,6
+Disorder of cardiovascular system,134057,432656,Embolism and thrombosis of the thoracic aorta,196969,14,196969,14,7
+Disorder of cardiovascular system,134057,4311124,Carotid artery thrombosis,195283,13,195698,13,6
+Disorder of cardiovascular system,134057,312383,Postpartum cardiomyopathy,193564,14,193564,14,5
+Disorder of cardiovascular system,134057,198798,Dieulafoy's vascular malformation,192720,14,193120,14,3
+Disorder of cardiovascular system,134057,46270145,Gastric hemorrhage due to atrophic gastritis,190670,13,190670,13,5
+Disorder of cardiovascular system,134057,4213731,Carotid artery embolism,190346,13,190346,13,5
+Disorder of cardiovascular system,134057,4053008,Chronic pericarditis,1317,2,190300,19,3
+Disorder of cardiovascular system,134057,4107225,Rupture of heart,200,2,190206,20,3
+Disorder of cardiovascular system,134057,435026,Obstetric pulmonary embolism,44596,15,189928,17,6
+Disorder of cardiovascular system,134057,4184746,Left ventricular hypertrophy,177757,4,189123,4,5
+Disorder of cardiovascular system,134057,380747,Cerebral arteritis,185112,19,187253,19,4
+Disorder of cardiovascular system,134057,443249,"Congenital cardiovascular disorders during pregnancy, childbirth and the puerperium",12630,13,185160,14,3
+Disorder of cardiovascular system,134057,4239826,Pulmonary thrombosis,311,2,182046,13,4
+Disorder of cardiovascular system,134057,43530951,Venous complication in the puerperium,48592,16,177139,18,4
+Disorder of cardiovascular system,134057,4108950,Acquired cardiac septal defect,166234,17,176552,17,4
+Disorder of cardiovascular system,134057,4310961,Capillaritis,928,2,176005,18,3
+Disorder of cardiovascular system,134057,4116061,Angiokeratoma of skin,1717,3,175134,14,4
+Disorder of cardiovascular system,134057,4353837,Dilatation of pulmonary artery,300,3,173357,19,4
+Disorder of cardiovascular system,134057,4042934,Fabry's disease,172038,14,172038,14,5
+Disorder of cardiovascular system,134057,258449,Hemopericardium,145166,18,171455,18,2
+Disorder of cardiovascular system,134057,312773,Mechanical complication due to heart valve prosthesis,170374,14,170374,14,2
+Disorder of cardiovascular system,134057,257660,Partial anomalous pulmonary venous connection,169873,18,169973,18,6
+Disorder of cardiovascular system,134057,433515,Chronic gastrojejunal ulcer with hemorrhage,154468,18,168474,18,7
+Disorder of cardiovascular system,134057,4037495,Dilated cardiomyopathy secondary to peripartum heart disease,168274,15,168274,15,7
+Disorder of cardiovascular system,134057,4142895,Near syncope,166393,5,166393,5,1
+Disorder of cardiovascular system,134057,4111098,"Aortic stenosis, non-rheumatic",162073,5,164871,5,6
+Disorder of cardiovascular system,134057,4067764,Pigmented purpuric lichenoid dermatitis of Gougerot and Blum,164544,18,164544,18,5
+Disorder of cardiovascular system,134057,314432,Maternal hypotension syndrome,47441,18,164391,18,2
+Disorder of cardiovascular system,134057,4344493,Granulomatosis with polyangiitis with multisystem involvement,162421,13,162421,13,6
+Disorder of cardiovascular system,134057,4109464,Ascending aorta dilatation,24229,3,162303,6,7
+Disorder of cardiovascular system,134057,317713,Injury of blood vessels of thorax,30858,17,160053,18,3
+Disorder of cardiovascular system,134057,438171,Rupture of chordae tendineae,156319,20,159072,20,4
+Disorder of cardiovascular system,134057,320429,Rheumatic aortic stenosis with regurgitation,158554,18,158554,18,7
+Disorder of cardiovascular system,134057,4110947,Malignant secondary renovascular hypertension,155768,14,155768,14,6
+Disorder of cardiovascular system,134057,4301373,Rheumatic mitral stenosis with regurgitation,154485,13,154485,13,6
+Disorder of cardiovascular system,134057,312334,Constrictive pericarditis,154064,15,154064,15,3
+Disorder of cardiovascular system,134057,4290976,Temporal arteritis,46000,4,153356,17,4
+Disorder of cardiovascular system,134057,4120090,Cardiac transplant rejection,148695,13,153346,16,3
+Disorder of cardiovascular system,134057,4233224,Cardiac insufficiency during AND/OR resulting from a procedure,36444,12,151227,13,4
+Disorder of cardiovascular system,134057,4266523,Gastric ulcer with hemorrhage and perforation,200,2,146317,17,6
+Disorder of cardiovascular system,134057,4242669,Biventricular congestive heart failure,145110,12,145110,12,5
+Disorder of cardiovascular system,134057,40484541,Atherosclerosis of autologous vein bypass graft of limb,144408,12,144408,12,6
+Disorder of cardiovascular system,134057,37118664,Injury of femoral artery,49878,14,144182,16,6
+Disorder of cardiovascular system,134057,314426,Congenital cardiovascular disorder during pregnancy - baby not yet delivered,143633,13,143633,13,4
+Disorder of cardiovascular system,134057,4032003,Anterior spinal artery compression syndrome,143443,12,143443,12,4
+Disorder of cardiovascular system,134057,40481132,Arteriosclerosis of coronary artery bypass graft of transplanted heart,142907,14,142907,14,6
+Disorder of cardiovascular system,134057,137212,Cardiovascular syphilis,50972,18,140668,19,3
+Disorder of cardiovascular system,134057,4179912,Intracranial venous thrombosis,2671,5,140452,19,4
+Disorder of cardiovascular system,134057,40480082,Hemicrania continua,138605,15,138605,15,3
+Disorder of cardiovascular system,134057,4118795,Renal artery stenosis,117518,5,138413,18,6
+Disorder of cardiovascular system,134057,4314161,"Migraine without aura, not refractory",138379,5,138379,5,5
+Disorder of cardiovascular system,134057,312928,Adhesive pericarditis,98535,14,136462,18,3
+Disorder of cardiovascular system,134057,4100815,Dextrocardia,134341,19,135290,19,6
+Disorder of cardiovascular system,134057,4186397,Myocardial ischemia,10703,5,135209,17,4
+Disorder of cardiovascular system,134057,4102202,Cerebral venous sinus thrombosis,4166,3,135078,19,5
+Disorder of cardiovascular system,134057,4124682,Triple vessel disease of the heart,134002,3,134002,3,5
+Disorder of cardiovascular system,134057,45757783,Gastric hemorrhage due to alcoholic gastritis,132439,13,132439,13,5
+Disorder of cardiovascular system,134057,436140,Vulval varices,72021,19,128725,19,7
+Disorder of cardiovascular system,134057,4316372,HELLP syndrome,126215,16,126215,16,6
+Disorder of cardiovascular system,134057,4045749,Cerebral amyloid angiopathy,124605,15,125105,15,2
+Disorder of cardiovascular system,134057,4344167,Primary necrotizing systemic vasculitis,643,2,124515,18,5
+Disorder of cardiovascular system,134057,134380,Erythromelalgia,123833,15,124033,15,2
+Disorder of cardiovascular system,134057,436692,Retinal venous engorgement,123465,13,123465,13,4
+Disorder of cardiovascular system,134057,4273526,Vertebral artery thrombosis,122874,13,123074,13,6
+Disorder of cardiovascular system,134057,4203625,Chronic constrictive pericarditis,121345,18,121345,18,4
+Disorder of cardiovascular system,134057,4108680,"Thrombosis of atrium, auricular appendage, and ventricle due to and following acute myocardial infarction",120749,17,120749,17,5
+Disorder of cardiovascular system,134057,4121463,Postoperative cardiac complication,119439,15,119439,15,3
+Disorder of cardiovascular system,134057,439693,True posterior myocardial infarction,119317,13,119317,13,5
+Disorder of cardiovascular system,134057,40484607,Injury of aorta,200,2,118399,18,6
+Disorder of cardiovascular system,134057,4109481,Abnormality of aortic arch branch,300,3,118256,16,3
+Disorder of cardiovascular system,134057,314667,Nonpyogenic thrombosis of intracranial venous sinus,118169,16,118169,16,6
+Disorder of cardiovascular system,134057,4057979,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",116674,18,116674,18,3
+Disorder of cardiovascular system,134057,44782755,Chronic deep venous thrombosis of internal jugular vein,115867,14,116067,14,6
+Disorder of cardiovascular system,134057,4121462,Persistent pulmonary hypertension of the newborn,116021,12,116021,12,7
+Disorder of cardiovascular system,134057,373755,Thunderclap headache,1576,2,115251,14,3
+Disorder of cardiovascular system,134057,4264636,Cardiac insufficiency following cardiac surgery,114383,13,114583,13,5
+Disorder of cardiovascular system,134057,43530641,Primary thunderclap headache,113675,14,113675,14,4
+Disorder of cardiovascular system,134057,4180796,Malignant tumor of heart,1017,7,113655,18,4
+Disorder of cardiovascular system,134057,4171269,Atrial tachycardia,41442,5,113596,5,5
+Disorder of cardiovascular system,134057,201043,Dissection of iliac artery,113042,14,113042,14,5
+Disorder of cardiovascular system,134057,4124683,Silent myocardial ischemia,112844,16,112844,16,5
+Disorder of cardiovascular system,134057,314370,Endocardial fibroelastosis,111911,19,112683,19,3
+Disorder of cardiovascular system,134057,4294246,Abdominal migraine,112273,14,112373,14,3
+Disorder of cardiovascular system,134057,4194050,Mechanical complication of aortic graft,112273,13,112273,13,3
+Disorder of cardiovascular system,134057,316644,Primary malignant neoplasm of heart,63730,16,112038,18,5
+Disorder of cardiovascular system,134057,194209,Digital blood vessel injury,111437,18,112037,18,3
+Disorder of cardiovascular system,134057,4232691,Permanent atrial fibrillation,111611,3,111611,3,6
+Disorder of cardiovascular system,134057,4207534,Pulmonary hypertensive venous disease,1688,2,111222,11,5
+Disorder of cardiovascular system,134057,44783628,Pulmonary hypertension due to lung disease and/or hypoxia,107178,11,109640,11,6
+Disorder of cardiovascular system,134057,43020910,Pulmonary hypertension due to left heart disease,107980,11,109050,11,6
+Disorder of cardiovascular system,134057,314208,Injury of radial blood vessel,60015,14,108790,18,4
+Disorder of cardiovascular system,134057,433832,Obstetric blood-clot pulmonary embolism,19250,13,108296,13,7
+Disorder of cardiovascular system,134057,4343935,Giant cell arteritis with polymyalgia rheumatica,107156,16,107156,16,5
+Disorder of cardiovascular system,134057,4111717,Occlusion and stenosis of posterior cerebral artery,105790,14,105990,14,5
+Disorder of cardiovascular system,134057,315116,Injury of carotid artery,59894,18,105769,18,5
+Disorder of cardiovascular system,134057,438820,Postpartum deep phlebothrombosis,54156,17,104462,17,6
+Disorder of cardiovascular system,134057,4318560,Chronic mixed headache syndrome,103973,5,103973,5,4
+Disorder of cardiovascular system,134057,4108164,Aortic valve calcification,1789,2,102911,5,5
+Disorder of cardiovascular system,134057,4195690,Aortic valve sclerosis,100465,5,100665,5,5
+Disorder of cardiovascular system,134057,4119619,Arterial laceration,41277,12,97745,12,5
+Disorder of cardiovascular system,134057,4156949,Air embolism,18015,15,97636,17,3
+Disorder of cardiovascular system,134057,439838,Thrombophlebitis migrans,97563,17,97563,17,5
+Disorder of cardiovascular system,134057,4020159,Mechanical complication of heart valve prosthesis,40809,16,97329,17,4
+Disorder of cardiovascular system,134057,44782759,Chronic thrombosis of subclavian vein,97028,14,97328,14,6
+Disorder of cardiovascular system,134057,4155007,Multi vessel coronary artery disease,96790,3,96790,3,5
+Disorder of cardiovascular system,134057,4326751,Cardiac sarcoidosis,868,2,93589,13,4
+Disorder of cardiovascular system,134057,4111541,Sarcoid heart muscle disease,92721,13,92721,13,5
+Disorder of cardiovascular system,134057,313062,Injury of thoracic aorta,92672,18,92672,18,7
+Disorder of cardiovascular system,134057,4057976,Severe pre-eclampsia with postnatal complication,91872,14,91872,14,6
+Disorder of cardiovascular system,134057,438777,Papillary muscle disorder,69717,13,91742,17,3
+Disorder of cardiovascular system,134057,4331309,Myocarditis due to infectious agent,47301,17,91595,19,5
+Disorder of cardiovascular system,134057,4159144,Hepatopulmonary syndrome,90998,15,90998,15,5
+Disorder of cardiovascular system,134057,442626,Benign hypertensive heart AND renal disease,90553,9,90553,9,4
+Disorder of cardiovascular system,134057,442581,Injury of popliteal vessels,3302,12,90326,18,5
+Disorder of cardiovascular system,134057,4196960,Varicocele,88568,6,88868,6,7
+Disorder of cardiovascular system,134057,4271003,Rheumatoid vasculitis,87027,17,87127,17,4
+Disorder of cardiovascular system,134057,438969,Measles without complication,86208,19,86208,19,3
+Disorder of cardiovascular system,134057,4035467,Congenital insufficiency of pulmonary valve,85382,17,85382,17,7
+Disorder of cardiovascular system,134057,441725,Ulnar blood vessel injury,49605,16,85088,18,4
+Disorder of cardiovascular system,134057,4113927,Injury of vein of trunk,9657,17,84787,18,5
+Disorder of cardiovascular system,134057,45766114,Subsequent ST segment elevation myocardial infarction,84002,12,84649,12,6
+Disorder of cardiovascular system,134057,4263370,R.I.N.D. syndrome,84544,4,84544,4,2
+Disorder of cardiovascular system,134057,4119302,Pulmonary arteriovenous malformation,83203,14,83403,14,4
+Disorder of cardiovascular system,134057,195060,Congenital anomaly of renal blood vessel,69314,19,82523,19,4
+Disorder of cardiovascular system,134057,433783,Pulmonary artery aneurysm,81523,18,81723,18,5
+Disorder of cardiovascular system,134057,4062811,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",81514,13,81514,13,4
+Disorder of cardiovascular system,134057,4167918,Umbilical hemorrhage,40126,15,80545,18,3
+Disorder of cardiovascular system,134057,437897,Acute rheumatic endocarditis,77131,18,77131,18,6
+Disorder of cardiovascular system,134057,441593,Arteriovenous fistula of pulmonary vessels,76946,19,76946,19,4
+Disorder of cardiovascular system,134057,4169592,Acute gastric ulcer with hemorrhage and perforation,23628,16,76295,17,7
+Disorder of cardiovascular system,134057,4109365,Premature atrial contraction,69223,5,75128,6,5
+Disorder of cardiovascular system,134057,4274491,Acute gastrojejunal ulcer with hemorrhage,25021,15,74665,16,7
+Disorder of cardiovascular system,134057,4338227,Basilar artery thrombosis,74006,13,74206,13,6
+Disorder of cardiovascular system,134057,4151990,Anterior cord syndrome,6436,12,73869,14,6
+Disorder of cardiovascular system,134057,45766206,Tricuspid valve stenosis with insufficiency,430,3,73449,15,5
+Disorder of cardiovascular system,134057,4104799,Abnormal number of cusps,200,2,73129,5,6
+Disorder of cardiovascular system,134057,4029966,Intracranial aneurysm,41577,5,72986,16,7
+Disorder of cardiovascular system,134057,435684,Injury of popliteal artery,72368,18,72568,18,6
+Disorder of cardiovascular system,134057,4071203,Gastric ulcer with hemorrhage AND perforation but without obstruction,241,2,72152,15,7
+Disorder of cardiovascular system,134057,198019,Iliac blood vessel injury,6395,17,72040,18,4
+Disorder of cardiovascular system,134057,40487107,Congenital abnormality of aortic valve cusp,300,3,72027,5,7
+Disorder of cardiovascular system,134057,317307,Idiopathic myocarditis,71873,14,71873,14,5
+Disorder of cardiovascular system,134057,4139864,Congestive heart failure due to left ventricular systolic dysfunction,71720,3,71720,3,5
+Disorder of cardiovascular system,134057,4217075,Infectious pericarditis,65318,19,71495,20,3
+Disorder of cardiovascular system,134057,4334246,Central retinal vein occlusion with neovascularization,71449,12,71449,12,6
+Disorder of cardiovascular system,134057,4294530,Bicuspid cardiac valve,602,2,71374,5,7
+Disorder of cardiovascular system,134057,4200875,Type 2 diabetes mellitus with peripheral angiopathy,71153,3,71153,3,5
+Disorder of cardiovascular system,134057,4334248,Branch retinal vein occlusion with neovascularization,71140,12,71140,12,6
+Disorder of cardiovascular system,134057,4196684,Senile angioma,70346,5,70346,5,3
+Disorder of cardiovascular system,134057,4294973,Chronic gastric ulcer with hemorrhage and with perforation,19407,14,69381,17,7
+Disorder of cardiovascular system,134057,4111552,Re-entry ventricular arrhythmia,68821,17,68821,17,4
+Disorder of cardiovascular system,134057,44783643,Intermittent hypertension,17750,3,68301,5,2
+Disorder of cardiovascular system,134057,439133,Congenital anomaly of blood vessel of upper limb,67666,14,67666,14,5
+Disorder of cardiovascular system,134057,40480274,Nonsustained ventricular tachycardia,66537,3,66537,3,3
+Disorder of cardiovascular system,134057,4030365,Vascular calcification,19216,2,65804,3,3
+Disorder of cardiovascular system,134057,436031,Syphilitic endocarditis,10008,13,65080,13,7
+Disorder of cardiovascular system,134057,4108830,Atrial paroxysmal tachycardia,64746,4,64746,4,6
+Disorder of cardiovascular system,134057,4088351,Junctional premature complex,64051,18,64051,18,4
+Disorder of cardiovascular system,134057,4323898,Left ventricular cardiac dysfunction,13583,3,63984,3,4
+Disorder of cardiovascular system,134057,4134940,Injury to blood vessel of neck,26805,16,62714,17,4
+Disorder of cardiovascular system,134057,75126,Injury of common femoral artery,62145,14,62145,14,7
+Disorder of cardiovascular system,134057,4120092,Solitary pulmonary hypertension,200,2,61941,11,5
+Disorder of cardiovascular system,134057,4120094,Chronic thromboembolic pulmonary hypertension,60857,11,60857,11,7
+Disorder of cardiovascular system,134057,4274969,Vertebral artery embolism,60591,12,60591,12,6
+Disorder of cardiovascular system,134057,4145159,Hypoplasia of aorta,57960,10,59821,13,5
+Disorder of cardiovascular system,134057,43530650,Menstrual status migrainosus,59304,13,59304,13,5
+Disorder of cardiovascular system,134057,435563,Acute and subacute infective endocarditis associated with another disorder,59043,14,59043,14,7
+Disorder of cardiovascular system,134057,137613,Eclampsia in pregnancy,58348,19,58348,19,2
+Disorder of cardiovascular system,134057,4071202,Neonatal hypertension,58197,17,58197,17,2
+Disorder of cardiovascular system,134057,45757788,Postpartum pregnancy-induced hypertension,58055,10,58055,10,4
+Disorder of cardiovascular system,134057,318537,Bulbus cordis and cardiac septal closure anomalies,57907,14,57907,14,5
+Disorder of cardiovascular system,134057,315327,Maternal hypotension syndrome with antenatal problem,57376,12,57376,12,3
+Disorder of cardiovascular system,134057,4110194,Middle cerebral artery syndrome,57342,15,57342,15,3
+Disorder of cardiovascular system,134057,4116486,Exercise-induced angina,56477,3,56477,3,5
+Disorder of cardiovascular system,134057,4213824,Hypoplasia of right heart,341,2,54535,17,6
+Disorder of cardiovascular system,134057,4119617,Carotid artery rupture,300,3,54350,17,6
+Disorder of cardiovascular system,134057,437892,Lown-Ganong-Levine syndrome,54333,15,54333,15,4
+Disorder of cardiovascular system,134057,43531605,Occlusion of cerebral artery with stroke,10714,3,54180,9,5
+Disorder of cardiovascular system,134057,4108952,Subarachnoid hemorrhage from carotid siphon and bifurcation,53950,17,53950,17,7
+Disorder of cardiovascular system,134057,4125005,Prosthetic cardiac paravalvular leak,53407,13,53807,13,5
+Disorder of cardiovascular system,134057,4145158,Right hypoplastic heart syndrome,53394,17,53394,17,7
+Disorder of cardiovascular system,134057,316494,Cerebrovascular disorder in the puerperium,5296,13,53324,13,2
+Disorder of cardiovascular system,134057,4229440,Chronic congestive heart failure,46351,3,53240,3,5
+Disorder of cardiovascular system,134057,194417,Hepatic infarction,53230,18,53230,18,4
+Disorder of cardiovascular system,134057,4111414,Non-rheumatic tricuspid valve stenosis with insufficiency,52900,15,52900,15,6
+Disorder of cardiovascular system,134057,444389,Mycotic endocarditis,200,2,52377,17,6
+Disorder of cardiovascular system,134057,4110197,Occlusion and stenosis of multiple and bilateral cerebral arteries,52087,4,52087,4,5
+Disorder of cardiovascular system,134057,4310996,Ischemic stroke,49716,6,52074,6,3
+Disorder of cardiovascular system,134057,4238191,Transient ischemia,1884,2,51969,13,4
+Disorder of cardiovascular system,134057,46271459,Atherosclerosis of bypass graft of lower limb,200,2,51946,12,7
+Disorder of cardiovascular system,134057,4111861,Phlebitis of popliteal vein,50691,13,51889,13,7
+Disorder of cardiovascular system,134057,4108218,Subsequent myocardial infarction of inferior wall,51308,16,51641,16,6
+Disorder of cardiovascular system,134057,45766216,Arteriovenous malformation of limb,50353,13,50353,13,5
+Disorder of cardiovascular system,134057,4062552,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",50288,15,50288,15,3
+Disorder of cardiovascular system,134057,4172864,Neonatal cardiac failure,50186,17,50186,17,4
+Disorder of cardiovascular system,134057,4318800,Congenital anomaly of vena cava,200,2,50164,17,6
+Disorder of cardiovascular system,134057,193210,Transient ischemic deafness,50085,13,50085,13,5
+Disorder of cardiovascular system,134057,4129783,Spinal arteriovenous malformation,49525,13,49625,13,5
+Disorder of cardiovascular system,134057,4006294,Basilar artery embolism,49555,12,49555,12,6
+Disorder of cardiovascular system,134057,433415,Candidal endocarditis,48788,17,48788,17,7
+Disorder of cardiovascular system,134057,4145607,Injury of radial artery,16849,16,48675,16,6
+Disorder of cardiovascular system,134057,4108677,Subsequent myocardial infarction of anterior wall,47987,16,48301,16,6
+Disorder of cardiovascular system,134057,4050542,Renal blood vessel injury,726,6,48015,17,4
+Disorder of cardiovascular system,134057,4290427,Congenital anomaly of superior vena cava,200,2,47945,17,7
+Disorder of cardiovascular system,134057,439130,Subgaleal hemorrhage,23514,18,47938,19,4
+Disorder of cardiovascular system,134057,4209293,Systolic hypertension,46880,5,47838,5,2
+Disorder of cardiovascular system,134057,4121341,Diffuse cerebrovascular disease,4233,2,47699,9,2
+Disorder of cardiovascular system,134057,195400,Injury of renal vessels,19507,13,47289,13,5
+Disorder of cardiovascular system,134057,45773220,Reversible cerebral vasoconstriction syndrome,45981,13,45981,13,3
+Disorder of cardiovascular system,134057,43020882,Infective endocarditis of aortic valve,360,2,45883,12,7
+Disorder of cardiovascular system,134057,320745,Acute myocarditis associated with another disorder,24479,15,45734,17,6
+Disorder of cardiovascular system,134057,4033864,Livedoid vasculitis,45637,18,45637,18,4
+Disorder of cardiovascular system,134057,4310665,Phlebitis of portal vein,12361,17,45282,18,4
+Disorder of cardiovascular system,134057,432335,Aneurysm of subclavian artery,45050,14,45050,14,6
+Disorder of cardiovascular system,134057,4221265,Endomyocardial disease,45044,12,45044,12,3
+Disorder of cardiovascular system,134057,317669,Cardiac arrest in fetus OR newborn,249,2,44902,13,4
+Disorder of cardiovascular system,134057,4111716,Occlusion and stenosis of anterior cerebral artery,44626,14,44726,14,6
+Disorder of cardiovascular system,134057,4106274,Neonatal cardiac arrest,44653,13,44653,13,5
+Disorder of cardiovascular system,134057,141639,Transient hypertension of pregnancy - delivered with postnatal complication,44464,12,44464,12,6
+Disorder of cardiovascular system,134057,40489827,Traumatic injury of mesenteric artery,2121,3,44392,17,6
+Disorder of cardiovascular system,134057,40483833,Calcification of coronary artery,44111,3,44211,3,4
+Disorder of cardiovascular system,134057,45757557,Cardiomyopathy due to viral infection,44159,12,44159,12,5
+Disorder of cardiovascular system,134057,4087608,Viral carditis,4716,16,43785,19,4
+Disorder of cardiovascular system,134057,4233424,Acute right-sided heart failure,42606,11,43524,11,5
+Disorder of cardiovascular system,134057,4023479,Acute congestive heart failure,40720,3,43180,3,5
+Disorder of cardiovascular system,134057,379778,Multi-infarct dementia,35727,9,43176,9,5
+Disorder of cardiovascular system,134057,4302770,Postcardiotomy syndrome,42508,17,42508,17,4
+Disorder of cardiovascular system,134057,44782442,Atrial fibrillation with rapid ventricular response,41660,3,41660,3,6
+Disorder of cardiovascular system,134057,200881,Injury of iliac artery,41617,14,41617,14,6
+Disorder of cardiovascular system,134057,44782560,Idiopathic pulmonary arterial hypertension,41455,3,41455,3,7
+Disorder of cardiovascular system,134057,4219010,"Juvenile myopathy, encephalopathy, lactic acidosis AND stroke",41032,13,41032,13,3
+Disorder of cardiovascular system,134057,4253363,Wolff-Parkinson-White pattern,40832,6,40832,6,4
+Disorder of cardiovascular system,134057,43020497,Right carotid artery occlusion,13221,5,40830,5,7
+Disorder of cardiovascular system,134057,4163372,Congenital dilatation of aorta,19342,12,40812,13,7
+Disorder of cardiovascular system,134057,43020496,Left carotid artery occlusion,12884,5,40493,5,7
+Disorder of cardiovascular system,134057,4339544,Rheumatic tricuspid valve stenosis,20309,15,40428,15,5
+Disorder of cardiovascular system,134057,317000,Kyphoscoliotic heart disease,40195,16,40195,16,5
+Disorder of cardiovascular system,134057,44782754,Chronic thrombosis of superficial vein of upper extremity,39928,12,39928,12,6
+Disorder of cardiovascular system,134057,37398951,Cardiac arrest during surgery,39758,13,39858,13,5
+Disorder of cardiovascular system,134057,439077,Severe pre-eclampsia - delivered with postnatal complication,38304,13,38304,13,6
+Disorder of cardiovascular system,134057,320737,Hyperkinetic heart disease,38013,14,38013,14,3
+Disorder of cardiovascular system,134057,4181182,Chronic adhesive pericarditis,37827,17,37827,17,4
+Disorder of cardiovascular system,134057,4057039,Fat embolism,24042,16,37796,19,3
+Disorder of cardiovascular system,134057,441108,Cor triatriatum,37670,18,37670,18,7
+Disorder of cardiovascular system,134057,4055720,Vascular hemostatic disease,213,2,37469,3,2
+Disorder of cardiovascular system,134057,438259,Umbilical hemorrhage after birth,37225,15,37225,15,4
+Disorder of cardiovascular system,134057,4254116,Tachycardia-bradycardia,36819,3,36819,3,7
+Disorder of cardiovascular system,134057,443408,Upper limb arterial embolus,1426,3,36785,13,7
+Disorder of cardiovascular system,134057,4153352,Embolic stroke,32942,4,36669,4,3
+Disorder of cardiovascular system,134057,198467,Acute gastric ulcer with hemorrhage and obstruction,22868,13,36266,13,7
+Disorder of cardiovascular system,134057,4096625,Injury of vertebral artery,32211,16,36131,16,5
+Disorder of cardiovascular system,134057,200907,Air embolism as a complication of medical care,35715,14,36015,16,4
+Disorder of cardiovascular system,134057,4309332,Cardiac arrest as a complication of care,35901,12,35901,12,4
+Disorder of cardiovascular system,134057,4202511,Senile purpura,35890,3,35890,3,3
+Disorder of cardiovascular system,134057,4149044,Injury of ulnar artery,7895,14,35483,16,6
+Disorder of cardiovascular system,134057,4124868,Venous laceration,28567,12,35295,12,4
+Disorder of cardiovascular system,134057,4100136,Left atrial abnormality,201,2,34792,3,4
+Disorder of cardiovascular system,134057,442070,Maternal hypotension syndrome - delivered,34563,13,34563,13,3
+Disorder of cardiovascular system,134057,4317291,Cerebellar artery occlusion,687,3,34451,15,4
+Disorder of cardiovascular system,134057,137974,Abnormal fetal heart beat noted before labor in liveborn infant,33911,14,33911,14,2
+Disorder of cardiovascular system,134057,4317966,Ophthalmic migraine,29333,3,33755,5,5
+Disorder of cardiovascular system,134057,4112024,Occlusion and stenosis of cerebellar arteries,33664,15,33664,15,5
+Disorder of cardiovascular system,134057,4146580,Paroxysmal atrial flutter,33350,3,33350,3,6
+Disorder of cardiovascular system,134057,45757356,Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy,33079,13,33079,13,2
+Disorder of cardiovascular system,134057,4299783,Suppurative phlebitis,200,2,33021,13,4
+Disorder of cardiovascular system,134057,192670,Portal pyemia,32821,13,32821,13,5
+Disorder of cardiovascular system,134057,4198141,Post infarct angina,32198,12,32198,12,5
+Disorder of cardiovascular system,134057,73085,Injury of superficial femoral artery,32059,14,32159,14,7
+Disorder of cardiovascular system,134057,4097984,Coarctation of pulmonary artery,31795,13,31795,13,6
+Disorder of cardiovascular system,134057,43022066,Left atrial enlargement,13303,3,31114,3,5
+Disorder of cardiovascular system,134057,4055472,Axillary blood vessel injury,3749,14,31019,18,4
+Disorder of cardiovascular system,134057,315881,Vascular lesion of cord,12852,16,30942,17,3
+Disorder of cardiovascular system,134057,4059604,Renal artery hemorrhage,200,2,30774,14,4
+Disorder of cardiovascular system,134057,4141501,Simple varicose veins,30715,3,30715,3,5
+Disorder of cardiovascular system,134057,37016889,Dissection of renal artery,30574,14,30574,14,5
+Disorder of cardiovascular system,134057,4005907,Injury of brachial artery,18198,16,30420,16,6
+Disorder of cardiovascular system,134057,4291592,Capillary hemangioma,8233,4,29894,5,3
+Disorder of cardiovascular system,134057,321586,Acute rheumatic pericarditis,29883,17,29883,17,3
+Disorder of cardiovascular system,134057,4052200,Portal system vein injury,3869,17,29840,17,4
+Disorder of cardiovascular system,134057,4105620,Complicated migraine,29781,8,29781,8,4
+Disorder of cardiovascular system,134057,762725,"Ophthalmoplegic migraine, refractory",29626,9,29626,9,5
+Disorder of cardiovascular system,134057,321307,Chronic rheumatic pericarditis,29211,17,29411,17,4
+Disorder of cardiovascular system,134057,201885,Chronic gastric ulcer with hemorrhage and with obstruction,19936,12,29360,13,7
+Disorder of cardiovascular system,134057,46269837,Gastric hemorrhage due to chronic superficial gastritis,29264,11,29264,11,5
+Disorder of cardiovascular system,134057,438024,Injury of tibial blood vessel,9085,16,28845,17,5
+Disorder of cardiovascular system,134057,4149832,Bypass graft mechanical complications,28764,12,28764,12,3
+Disorder of cardiovascular system,134057,4247079,Hemangioma of liver,28608,4,28708,4,4
+Disorder of cardiovascular system,134057,315013,Congenital cardiovascular disorder during pregnancy - baby delivered,28195,12,28195,12,4
+Disorder of cardiovascular system,134057,317296,Rheumatic disease of pulmonary valve,27696,15,27996,15,4
+Disorder of cardiovascular system,134057,443873,Obstetrical air embolism,15864,13,27984,15,4
+Disorder of cardiovascular system,134057,4145696,Ischemic congestive cardiomyopathy,26124,3,27715,3,6
+Disorder of cardiovascular system,134057,437149,Injury of femoral vein,27600,18,27600,18,6
+Disorder of cardiovascular system,134057,439190,Injury of internal carotid artery,27527,13,27527,13,6
+Disorder of cardiovascular system,134057,4241473,Phlebitis of tibial vein,26580,12,27279,12,7
+Disorder of cardiovascular system,134057,4159659,Postural orthostatic tachycardia syndrome,27149,3,27149,3,3
+Disorder of cardiovascular system,134057,194807,Injury of inferior vena cava,27111,17,27111,17,6
+Disorder of cardiovascular system,134057,4114011,Subclavian artery stenosis,25369,3,26971,3,6
+Disorder of cardiovascular system,134057,4318843,Renal artery embolism,346,3,26776,13,7
+Disorder of cardiovascular system,134057,4180026,Vertebral artery aneurysm,26405,12,26405,12,7
+Disorder of cardiovascular system,134057,4231274,Viral myocarditis,21857,16,26329,17,6
+Disorder of cardiovascular system,134057,4143969,Isolated (Fiedler's) myocarditis,26140,16,26140,16,5
+Disorder of cardiovascular system,134057,40491866,Traumatic injury of celiac artery,2050,10,25945,15,6
+Disorder of cardiovascular system,134057,4294834,Choroidal retinal neovascularization,849,2,25486,11,2
+Disorder of cardiovascular system,134057,4047088,Left ventricular systolic dysfunction,22143,2,25473,3,5
+Disorder of cardiovascular system,134057,36715711,Anterior cord syndrome of thoracic spinal cord,6298,11,25464,13,7
+Disorder of cardiovascular system,134057,4121617,Cardiac transplant failure,21205,13,25356,16,3
+Disorder of cardiovascular system,134057,197151,Injury of abdominal aorta,25301,17,25301,17,7
+Disorder of cardiovascular system,134057,4212798,Left ventricular diastolic dysfunction,24928,3,24928,3,5
+Disorder of cardiovascular system,134057,313829,Maternal hypotension syndrome - delivered with postnatal problem,24811,13,24811,13,3
+Disorder of cardiovascular system,134057,4119942,Stable angina,24704,4,24704,4,5
+Disorder of cardiovascular system,134057,381118,Congenital vascular anomaly of eye,24396,13,24696,13,4
+Disorder of cardiovascular system,134057,438608,Injury of axillary artery,22233,18,24470,18,6
+Disorder of cardiovascular system,134057,4070523,Massive subgaleal hemorrhage due to birth trauma,24424,12,24424,12,6
+Disorder of cardiovascular system,134057,198016,Injury of multiple blood vessels of head AND/OR neck,24369,13,24369,13,4
+Disorder of cardiovascular system,134057,4111857,Spider nevus,24087,4,24087,4,5
+Disorder of cardiovascular system,134057,195124,Injury of celiac AND/OR mesenteric arteries,23895,15,23895,15,6
+Disorder of cardiovascular system,134057,4195785,Right heart failure secondary to left heart failure,23633,11,23633,11,5
+Disorder of cardiovascular system,134057,4162674,Restrictive cardiomyopathy with endomyocardial fibrosis,23428,14,23428,14,5
+Disorder of cardiovascular system,134057,4049043,Neonatal cerebral ischemia,23407,17,23407,17,5
+Disorder of cardiovascular system,134057,380126,Rheumatic chorea with heart involvement,23125,16,23125,16,5
+Disorder of cardiovascular system,134057,4167358,Diastolic hypertension,21239,4,22872,4,2
+Disorder of cardiovascular system,134057,44783644,Labile hypertension due to being in a clinical environment,22741,5,22741,5,3
+Disorder of cardiovascular system,134057,37116419,Myopic choroidal neovascularization,22504,11,22504,11,3
+Disorder of cardiovascular system,134057,4085405,Congenital arterial aneurysm,200,2,22070,13,5
+Disorder of cardiovascular system,134057,4019713,"Heart injury, open",200,2,21901,13,4
+Disorder of cardiovascular system,134057,80576,Injury of iliac vein,20736,14,21836,14,6
+Disorder of cardiovascular system,134057,4095550,Laceration of heart,6901,12,21701,13,5
+Disorder of cardiovascular system,134057,321578,Acute rheumatic myocarditis,21255,17,21255,17,5
+Disorder of cardiovascular system,134057,320456,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",21178,13,21178,13,4
+Disorder of cardiovascular system,134057,46273369,Endocarditis due to systemic lupus erythematosus,21148,12,21148,12,6
+Disorder of cardiovascular system,134057,441649,Antenatal deep vein thrombosis - delivered,21136,13,21136,13,6
+Disorder of cardiovascular system,134057,43020459,Mechanical breakdown of prosthetic heart valve,21111,11,21111,11,5
+Disorder of cardiovascular system,134057,4211532,Strawberry nevus of skin,20639,4,20861,4,4
+Disorder of cardiovascular system,134057,36715646,Anterior cord syndrome of cervical spinal cord,4195,10,20742,11,7
+Disorder of cardiovascular system,134057,432937,Rupture of papillary muscle,17104,17,20527,17,4
+Disorder of cardiovascular system,134057,4155963,Atypical angina,20493,3,20493,3,5
+Disorder of cardiovascular system,134057,192767,Injury of renal artery,20489,13,20489,13,6
+Disorder of cardiovascular system,134057,43020498,Left carotid artery stenosis,18919,5,20312,5,6
+Disorder of cardiovascular system,134057,4171193,Idioventricular rhythm,382,2,20218,5,4
+Disorder of cardiovascular system,134057,4108085,Rheumatic tricuspid stenosis and insufficiency,20119,13,20119,13,6
+Disorder of cardiovascular system,134057,4289908,Viral pericarditis,16548,12,19996,13,3
+Disorder of cardiovascular system,134057,4143293,Superficial thrombophlebitis in puerperium,19689,17,19689,17,7
+Disorder of cardiovascular system,134057,4061819,Aortopulmonary window,19570,17,19570,17,5
+Disorder of cardiovascular system,134057,4217221,Nodal rhythm disorder,19120,5,19318,5,3
+Disorder of cardiovascular system,134057,43021859,Right carotid artery stenosis,17867,6,19260,6,6
+Disorder of cardiovascular system,134057,435616,Amniotic fluid embolism,9382,16,19098,17,3
+Disorder of cardiovascular system,134057,313272,Puerperal cerebrovascular disorder with antenatal complication,19071,13,19071,13,3
+Disorder of cardiovascular system,134057,440572,Injury of posterior tibial artery,15444,13,18864,13,6
+Disorder of cardiovascular system,134057,4008580,Ventricular bigeminy,18652,5,18652,5,5
+Disorder of cardiovascular system,134057,4146460,Superficial thrombophlebitis in pregnancy,18611,16,18611,16,6
+Disorder of cardiovascular system,134057,438172,Atrial septal defect due to and following acute myocardial infarction,18587,17,18587,17,5
+Disorder of cardiovascular system,134057,4100880,Mitral leaflet abnormality,300,3,18288,3,4
+Disorder of cardiovascular system,134057,4340375,Focal segmental ischemia of small intestine,18280,11,18280,11,5
+Disorder of cardiovascular system,134057,4110164,Injury of vein of upper limb,4371,16,18111,17,5
+Disorder of cardiovascular system,134057,321502,Chagas' disease with heart involvement,7464,15,18099,18,3
+Disorder of cardiovascular system,134057,444251,"Rubella in mother complicating pregnancy, childbirth AND/OR puerperium",1585,14,17808,15,3
+Disorder of cardiovascular system,134057,4124836,Peripheral ischemia,233,2,17593,5,4
+Disorder of cardiovascular system,134057,4199306,Transient hypertension,17271,3,17271,3,3
+Disorder of cardiovascular system,134057,4108819,Pulmonary valve stenosis with insufficiency,1265,7,17228,18,6
+Disorder of cardiovascular system,134057,74808,Injury of saphenous vein,9063,15,17224,17,6
+Disorder of cardiovascular system,134057,313833,Puerperal cerebrovascular disorder with postnatal complication,17019,13,17019,13,3
+Disorder of cardiovascular system,134057,4121646,Genital varices in pregnancy,16721,17,16921,17,7
+Disorder of cardiovascular system,134057,4108678,Hemopericardium due to and following acute myocardial infarction,16544,16,16544,16,4
+Disorder of cardiovascular system,134057,440260,Pulmonary blood vessel injury,9416,17,16410,17,4
+Disorder of cardiovascular system,134057,4050547,Injury of radial artery at wrist and hand level,16409,16,16409,16,7
+Disorder of cardiovascular system,134057,4124841,Aortic bifurcation syndrome,16377,12,16377,12,7
+Disorder of cardiovascular system,134057,4120088,Cardiac arrest with successful resuscitation,16197,7,16197,7,4
+Disorder of cardiovascular system,134057,4164083,Ectopic rhythm,830,2,16021,4,3
+Disorder of cardiovascular system,134057,4120801,Capillary malformation,676,2,15963,4,4
+Disorder of cardiovascular system,134057,45766087,Non-rheumatic pulmonary valve stenosis with regurgitation,15963,12,15963,12,7
+Disorder of cardiovascular system,134057,4052209,Injury of ulnar artery at wrist and hand level,15836,16,15836,16,7
+Disorder of cardiovascular system,134057,4121647,Venous stenosis,1316,2,15804,17,3
+Disorder of cardiovascular system,134057,437152,Injury of anterior tibial artery,12558,13,15780,13,6
+Disorder of cardiovascular system,134057,40480555,Deep venous thrombosis of peroneal vein,15694,5,15694,5,7
+Disorder of cardiovascular system,134057,4018366,"Heart injury, closed",200,2,15680,13,4
+Disorder of cardiovascular system,134057,320563,Injury of heart without open wound into thorax,15480,13,15480,13,5
+Disorder of cardiovascular system,134057,201730,Air embolism as early complication of trauma,15322,14,15322,14,4
+Disorder of cardiovascular system,134057,4110195,Posterior cerebral artery syndrome,15239,14,15239,14,3
+Disorder of cardiovascular system,134057,4038688,AV junctional rhythm,2600,3,15191,4,4
+Disorder of cardiovascular system,134057,4111708,Subarachnoid hemorrhage from vertebral artery,15185,16,15185,16,7
+Disorder of cardiovascular system,134057,4164218,Rubella in pregnancy,6552,12,14923,13,4
+Disorder of cardiovascular system,134057,320888,Injury of internal jugular vein,11741,17,14911,17,5
+Disorder of cardiovascular system,134057,37016885,Dissection of artery of lower limb,14471,12,14671,12,5
+Disorder of cardiovascular system,134057,136760,Transient hypertension of pregnancy - not delivered,14508,5,14508,5,6
+Disorder of cardiovascular system,134057,434224,Injury of popliteal vein,14156,16,14456,16,6
+Disorder of cardiovascular system,134057,439296,Vertebral artery occlusion,13882,8,14288,8,6
+Disorder of cardiovascular system,134057,4056457,Injury of blood vessels at forearm level,8715,16,14112,16,4
+Disorder of cardiovascular system,134057,196438,Acquired arteriovenous fistula of liver,13983,4,13983,4,4
+Disorder of cardiovascular system,134057,320646,Syphilitic aneurysm of aorta,13847,13,13847,13,7
+Disorder of cardiovascular system,134057,4199501,Rapid atrial fibrillation,13594,5,13594,5,6
+Disorder of cardiovascular system,134057,43020443,Limb ischemia,401,2,13269,5,5
+Disorder of cardiovascular system,134057,4005616,Arteriovenous malformation of precerebral vessels,13184,17,13184,17,6
+Disorder of cardiovascular system,134057,316280,Fat embolism as early complication of trauma,12954,15,13154,15,4
+Disorder of cardiovascular system,134057,4056460,Injury of blood vessel(s) of thumb,13051,16,13051,16,4
+Disorder of cardiovascular system,134057,4242670,Calcific coronary arteriosclerosis,12954,3,12954,3,5
+Disorder of cardiovascular system,134057,4153293,Congenital renal artery stenosis,12909,16,12909,16,7
+Disorder of cardiovascular system,134057,443878,Injury of superior mesenteric artery,12637,13,12837,13,7
+Disorder of cardiovascular system,134057,4277276,Veno-occlusive disease of the liver,12828,17,12828,17,5
+Disorder of cardiovascular system,134057,4215140,Acute coronary syndrome,12819,5,12819,5,5
+Disorder of cardiovascular system,134057,441443,Injury of superior vena cava,12553,17,12553,17,6
+Disorder of cardiovascular system,134057,4221281,Atrial dilatation,1291,3,12549,4,3
+Disorder of cardiovascular system,134057,40484120,Small vessel cerebrovascular disease,12205,3,12205,3,2
+Disorder of cardiovascular system,134057,4084545,Fistula of artery,200,2,12156,16,3
+Disorder of cardiovascular system,134057,4198624,Fetal cardiovascular disorder,200,2,12138,13,1
+Disorder of cardiovascular system,134057,4200113,Non-Q wave myocardial infarction,12068,4,12068,4,5
+Disorder of cardiovascular system,134057,320127,Bacterial myocarditis,7321,13,11910,13,6
+Disorder of cardiovascular system,134057,42710054,Thrombophlebitis of superficial veins of lower leg,11726,3,11726,3,7
+Disorder of cardiovascular system,134057,4108360,Anterior cerebral artery syndrome,11660,14,11660,14,3
+Disorder of cardiovascular system,134057,4044232,Migraine aura without headache,11659,3,11659,3,5
+Disorder of cardiovascular system,134057,380423,Vertebral artery stenosis,11186,6,11593,6,5
+Disorder of cardiovascular system,134057,438903,Injury of external jugular vein,8328,17,11586,17,5
+Disorder of cardiovascular system,134057,4301602,Thrombotic thrombocytopenic purpura,11017,6,11521,6,5
+Disorder of cardiovascular system,134057,4091708,Pulmonary air embolism,200,2,11420,13,6
+Disorder of cardiovascular system,134057,4322893,Hypertensive left ventricular hypertrophy,11366,3,11366,3,6
+Disorder of cardiovascular system,134057,442055,Obstetric air pulmonary embolism,4753,12,11220,13,7
+Disorder of cardiovascular system,134057,4121467,Old inferior myocardial infarction,11203,3,11203,3,6
+Disorder of cardiovascular system,134057,4102846,Isomerism of atrial appendages,10959,17,11159,17,7
+Disorder of cardiovascular system,134057,321367,Vascular lesions of cord - delivered,11111,13,11111,13,4
+Disorder of cardiovascular system,134057,4167993,Aneurysm of popliteal artery,10619,3,10963,3,7
+Disorder of cardiovascular system,134057,194704,Miscarriage complicated by embolism,2447,12,10865,15,3
+Disorder of cardiovascular system,134057,439177,Laceration of heart with penetration of heart chambers,3457,13,10799,13,6
+Disorder of cardiovascular system,134057,4235812,Septic thrombophlebitis,6744,14,10640,14,5
+Disorder of cardiovascular system,134057,4231816,Mesenteric artery stenosis,10590,3,10590,3,6
+Disorder of cardiovascular system,134057,4334638,Fetal heart disorder,957,4,10208,4,2
+Disorder of cardiovascular system,134057,4119953,Post-infarction ventricular septal defect,10118,16,10118,16,6
+Disorder of cardiovascular system,134057,4119612,Lower limb ischemia,3014,4,10090,4,6
+Disorder of cardiovascular system,134057,441046,Sublingual varices,9991,17,9991,17,5
+Disorder of cardiovascular system,134057,4110112,Congenital vascular nevus,6079,2,9990,3,5
+Disorder of cardiovascular system,134057,316631,Coxsackie carditis,4886,13,9989,13,5
+Disorder of cardiovascular system,134057,4108822,Primary dilated cardiomyopathy,3164,2,9980,3,6
+Disorder of cardiovascular system,134057,4258998,Persistent sinus bradycardia,9943,3,9943,3,6
+Disorder of cardiovascular system,134057,438881,Closed fracture of C1-C4 level with anterior cord syndrome,9867,13,9867,13,6
+Disorder of cardiovascular system,134057,45768439,Acute pulmonary embolism,8549,3,9700,3,6
+Disorder of cardiovascular system,134057,4219552,Port-wine stain of skin,8275,3,9648,4,7
+Disorder of cardiovascular system,134057,4159755,Labile essential hypertension,9620,4,9620,4,3
+Disorder of cardiovascular system,134057,43020493,Atherosclerosis of right carotid artery,2946,3,9556,3,7
+Disorder of cardiovascular system,134057,4019341,Injury of heart with hemopericardium,5344,15,9545,15,4
+Disorder of cardiovascular system,134057,4030425,Atherosclerotic occlusive disease,9542,3,9542,3,5
+Disorder of cardiovascular system,134057,43020912,Congenital abnormality of supraaortic branch of thoracic aorta,6734,12,9528,12,7
+Disorder of cardiovascular system,134057,4111700,Ventricular fibrillation and flutter,9520,10,9520,10,5
+Disorder of cardiovascular system,134057,43021851,Atherosclerosis of left carotid artery,2759,3,9369,3,7
+Disorder of cardiovascular system,134057,4110336,Anterior spinal and vertebral artery compression syndromes,9309,11,9309,11,6
+Disorder of cardiovascular system,134057,4056453,Injury of superficial palmar arch,9196,15,9296,15,7
+Disorder of cardiovascular system,134057,4050680,Injury of blood vessels at ankle and foot level,8678,16,9178,16,5
+Disorder of cardiovascular system,134057,197153,Injury of splenic artery,9090,13,9090,13,6
+Disorder of cardiovascular system,134057,436277,Injury of common carotid artery,9012,13,9012,13,6
+Disorder of cardiovascular system,134057,4108679,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction,9007,15,9007,15,5
+Disorder of cardiovascular system,134057,4056454,Injury of deep palmar arch,8728,14,8828,14,7
+Disorder of cardiovascular system,134057,4259275,Thrombosis of penis,4014,2,8813,12,3
+Disorder of cardiovascular system,134057,197714,Injury of splenic vein,8752,13,8752,13,5
+Disorder of cardiovascular system,134057,4020886,Mechanical complication of vena cava umbrella,8625,13,8625,13,4
+Disorder of cardiovascular system,134057,4004279,High output heart failure,8506,11,8506,11,4
+Disorder of cardiovascular system,134057,4088503,AV junctional (nodal) tachycardia,649,3,8356,4,5
+Disorder of cardiovascular system,134057,134414,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication,8344,12,8344,12,5
+Disorder of cardiovascular system,134057,438206,Maternal rubella during pregnancy - baby delivered,8271,12,8271,12,5
+Disorder of cardiovascular system,134057,4184827,"Angina, class II",8247,3,8247,3,5
+Disorder of cardiovascular system,134057,4056446,Superior mesenteric vein injury,3627,11,8241,13,5
+Disorder of cardiovascular system,134057,43021828,Right atrial enlargement,1194,3,8210,3,5
+Disorder of cardiovascular system,134057,4265190,Cardiac ventricular dilatation,1361,3,8083,3,3
+Disorder of cardiovascular system,134057,36716727,Chronic Chagas disease with heart involvement,8050,11,8050,11,4
+Disorder of cardiovascular system,134057,4242593,Erythema elevatum diutinum,8035,15,8035,15,3
+Disorder of cardiovascular system,134057,314107,Obstetrical cardiac complication of anesthesia AND/OR sedation,7832,13,8032,13,3
+Disorder of cardiovascular system,134057,4099974,Completed stroke,7935,3,7935,3,3
+Disorder of cardiovascular system,134057,40493243,Eisenmenger's syndrome,7928,11,7928,11,7
+Disorder of cardiovascular system,134057,43020874,Viral endocarditis,6223,11,7854,12,6
+Disorder of cardiovascular system,134057,4137871,Inappropriate sinus tachycardia,7691,4,7691,4,5
+Disorder of cardiovascular system,134057,4062906,Transient hypertension of pregnancy with postnatal complication,7395,7,7395,7,6
+Disorder of cardiovascular system,134057,201717,"Heart laceration with open wound into thorax, with penetration of heart chambers",7342,13,7342,13,7
+Disorder of cardiovascular system,134057,195125,Injury of renal vein,7293,12,7293,12,6
+Disorder of cardiovascular system,134057,4273462,Atrial aneurysm,679,3,7245,3,4
+Disorder of cardiovascular system,134057,4160782,Coronary artery fistula,669,2,7241,5,4
+Disorder of cardiovascular system,134057,4305666,Eosinophilic granulomatosis with polyangiitis,7203,7,7203,7,5
+Disorder of cardiovascular system,134057,4199962,Asymptomatic coronary heart disease,7173,3,7173,3,5
+Disorder of cardiovascular system,134057,437045,Incomplete miscarriage with embolism,7141,14,7141,14,4
+Disorder of cardiovascular system,134057,4285144,Hypotensive episode,7133,4,7133,4,2
+Disorder of cardiovascular system,134057,40482953,Migraine variant with headache,6848,3,6848,3,5
+Disorder of cardiovascular system,134057,315884,Vascular lesions of cord with antenatal problem,6779,13,6779,13,4
+Disorder of cardiovascular system,134057,4217486,Essential hypertension in obstetric context,2687,4,6711,4,3
+Disorder of cardiovascular system,134057,440019,Measles with complication,5584,18,6702,18,3
+Disorder of cardiovascular system,134057,313902,Injury of palmar artery,6653,13,6653,13,7
+Disorder of cardiovascular system,134057,4264145,"Angina, class I",6508,3,6508,3,5
+Disorder of cardiovascular system,134057,4317287,Atrial septal aneurysm,6366,3,6466,3,5
+Disorder of cardiovascular system,134057,4189939,Acute myocardial ischemia,728,2,6463,14,5
+Disorder of cardiovascular system,134057,442603,Malignant hypertensive heart AND renal disease,6454,8,6454,8,4
+Disorder of cardiovascular system,134057,194797,Injury of uterine artery,6412,13,6412,13,6
+Disorder of cardiovascular system,134057,4108352,Atrial thrombosis,6377,3,6377,3,4
+Disorder of cardiovascular system,134057,37016924,Dissection of cerebral artery,6343,3,6343,3,7
+Disorder of cardiovascular system,134057,4268609,Williams syndrome,6327,6,6327,6,5
+Disorder of cardiovascular system,134057,197154,Injury of portal vein,6323,13,6323,13,5
+Disorder of cardiovascular system,134057,381036,Multiple AND bilateral precerebral artery stenosis,6305,3,6305,3,5
+Disorder of cardiovascular system,134057,4089459,AV nodal re-entry tachycardia,6232,3,6232,3,6
+Disorder of cardiovascular system,134057,440477,Obstetric pyemic and septic pulmonary embolism,2494,14,6218,14,7
+Disorder of cardiovascular system,134057,4203149,Primary idiopathic dilated cardiomyopathy,6175,3,6175,3,7
+Disorder of cardiovascular system,134057,4269880,Rheumatoid arteritis,6114,3,6114,3,5
+Disorder of cardiovascular system,134057,46269911,Gastric hemorrhage due to hypertrophic gastritis,6079,11,6079,11,5
+Disorder of cardiovascular system,134057,4081096,Livedo reticularis,4614,4,6061,4,3
+Disorder of cardiovascular system,134057,4093494,Toxoplasma myocarditis,1564,9,6055,12,7
+Disorder of cardiovascular system,134057,198286,Injury of heart with open wound into thorax,5853,13,6053,13,4
+Disorder of cardiovascular system,134057,40480657,Bilateral enlargement of atria,6042,3,6042,3,6
+Disorder of cardiovascular system,134057,4208944,Iliac artery stenosis,5623,3,6023,4,6
+Disorder of cardiovascular system,134057,4054530,Neoplasm of pericardium,200,2,6013,17,3
+Disorder of cardiovascular system,134057,4120940,Vascular graft occlusion,1076,2,5986,5,3
+Disorder of cardiovascular system,134057,4218771,Dilated cardiomyopathy secondary to drug,5923,4,5923,4,7
+Disorder of cardiovascular system,134057,434961,Occlusion of lower limb artery,1286,3,5913,3,6
+Disorder of cardiovascular system,134057,4111393,Single coronary vessel disease,5783,3,5783,3,5
+Disorder of cardiovascular system,134057,4172865,Transient myocardial ischemia of newborn,5735,13,5735,13,6
+Disorder of cardiovascular system,134057,201167,Injury of hepatic artery,5731,13,5731,13,6
+Disorder of cardiovascular system,134057,4056562,Greater saphenous vein injury,200,2,5717,16,7
+Disorder of cardiovascular system,134057,4145867,Venous occlusion,3871,8,5671,8,4
+Disorder of cardiovascular system,134057,4045734,CVA - cerebrovascular accident due to cerebral artery occlusion,4822,3,5622,3,3
+Disorder of cardiovascular system,134057,317208,Meningococcal carditis,1777,15,5547,15,4
+Disorder of cardiovascular system,134057,43531710,Induced termination of pregnancy complicated by embolism,2789,13,5460,13,3
+Disorder of cardiovascular system,134057,380639,Rubella with neurological complication,5447,16,5447,16,3
+Disorder of cardiovascular system,134057,4172863,Fetal dysrhythmia,3449,3,5417,3,3
+Disorder of cardiovascular system,134057,762769,Chronic migraine without aura,4810,6,5367,7,5
+Disorder of cardiovascular system,134057,4121649,Internal jugular vein stenosis,5363,4,5363,4,4
+Disorder of cardiovascular system,134057,438270,Closed fracture of C5-C7 level with anterior cord syndrome,5348,13,5348,13,6
+Disorder of cardiovascular system,134057,4338242,Congenital stenosis of vena cava,5046,16,5346,16,7
+Disorder of cardiovascular system,134057,4317289,Thrombosis of mesenteric vein,2254,3,5295,3,5
+Disorder of cardiovascular system,134057,4200662,Tuberculosis of heart,5245,12,5245,12,4
+Disorder of cardiovascular system,134057,194994,Renal infarction,5117,6,5217,6,5
+Disorder of cardiovascular system,134057,4124694,Bacterial pericarditis,200,2,5167,12,4
+Disorder of cardiovascular system,134057,4261970,Familial cardiomyopathy,1006,2,5117,3,4
+Disorder of cardiovascular system,134057,45766036,Carditis due to rheumatic fever,5095,9,5095,9,4
+Disorder of cardiovascular system,134057,437427,Injury of external carotid artery,5058,13,5058,13,6
+Disorder of cardiovascular system,134057,4232580,Retinal embolus,1320,2,5040,3,4
+Disorder of cardiovascular system,134057,4108236,Hypertrophic cardiomyopathy without obstruction,4948,4,4948,4,5
+Disorder of cardiovascular system,134057,4050552,Injury of vein at forearm level,4936,15,4936,15,6
+Disorder of cardiovascular system,134057,43020480,Acquired coronary artery fistula,4921,3,4921,3,5
+Disorder of cardiovascular system,134057,4052218,Injury of peroneal artery,4825,16,4825,16,6
+Disorder of cardiovascular system,134057,4142290,Occlusion of arterial bypass graft,537,2,4810,5,4
+Disorder of cardiovascular system,134057,4295878,Thrombosis of penile vein,469,4,4799,12,6
+Disorder of cardiovascular system,134057,4176112,Multifocal atrial tachycardia,4676,4,4676,4,6
+Disorder of cardiovascular system,134057,317712,Injury of intercostal artery,4665,13,4665,13,6
+Disorder of cardiovascular system,134057,44782713,Congestive heart failure with right heart failure,4629,3,4629,3,5
+Disorder of cardiovascular system,134057,197422,Injury of superior mesenteric vein AND/OR primary subdivisions,4614,13,4614,13,6
+Disorder of cardiovascular system,134057,4082589,Dilated blood vessels in skin,200,2,4544,3,3
+Disorder of cardiovascular system,134057,43021816,Mixed dementia,4517,3,4517,3,2
+Disorder of cardiovascular system,134057,4307373,Basilar migraine,4395,4,4495,4,5
+Disorder of cardiovascular system,134057,40491951,Iliac vein compression syndrome,4493,3,4493,3,5
+Disorder of cardiovascular system,134057,4032870,Malignant mesothelioma of pericardium,4481,15,4481,15,5
+Disorder of cardiovascular system,134057,4066234,Cerebral venous thrombosis in the puerperium,4473,15,4473,15,6
+Disorder of cardiovascular system,134057,4144439,Myxoma of heart,1056,2,4443,3,4
+Disorder of cardiovascular system,134057,45766164,Heart failure with reduced ejection fraction,4025,3,4425,3,4
+Disorder of cardiovascular system,134057,4138173,Intractable ophthalmic migraine,4422,4,4422,4,6
+Disorder of cardiovascular system,134057,4240733,Syphilis of mitral valve,200,2,4417,12,5
+Disorder of cardiovascular system,134057,43021947,Infective endocarditis of mitral valve,169,1,4386,12,7
+Disorder of cardiovascular system,134057,40479758,Pseudoaneurysm,769,4,4374,5,1
+Disorder of cardiovascular system,134057,197140,Injury of gastric artery,4361,12,4361,12,6
+Disorder of cardiovascular system,134057,4033449,Anomalous cardiac muscle bands,200,2,4353,3,6
+Disorder of cardiovascular system,134057,4298839,Venous lake,2476,2,4344,3,5
+Disorder of cardiovascular system,134057,762443,Thrombosis of superficial vein of penis,4330,9,4330,9,7
+Disorder of cardiovascular system,134057,4103137,Left ventricular outflow tract obstruction,4218,3,4318,3,5
+Disorder of cardiovascular system,134057,4124839,Critical lower limb ischemia,4063,3,4263,3,7
+Disorder of cardiovascular system,134057,43021748,Hypertensive nephrosclerosis,3433,3,4243,3,5
+Disorder of cardiovascular system,134057,317301,Toxic myocarditis,4227,12,4227,12,5
+Disorder of cardiovascular system,134057,4120280,Vascular graft thrombosis,1264,3,4223,4,3
+Disorder of cardiovascular system,134057,435972,Injury of pulmonary artery,4211,13,4211,13,5
+Disorder of cardiovascular system,134057,4236271,Recurrent pulmonary embolism,4152,3,4152,3,7
+Disorder of cardiovascular system,134057,4309007,Heart transplant failure and rejection,807,5,4151,14,4
+Disorder of cardiovascular system,134057,4216773,Asystole,4091,3,4091,3,4
+Disorder of cardiovascular system,134057,4284491,Diffuse endocapillary proliferative glomerulonephritis,2045,11,4083,13,4
+Disorder of cardiovascular system,134057,4116723,Injury of dorsalis pedis artery,4081,16,4081,16,6
+Disorder of cardiovascular system,134057,321505,Gonococcal heart disease,2793,12,4053,12,4
+Disorder of cardiovascular system,134057,4236169,Ventricular aneurysm,695,3,3942,4,4
+Disorder of cardiovascular system,134057,4222152,Postpartum thrombophlebitis,200,2,3896,11,6
+Disorder of cardiovascular system,134057,4272799,Superior vena cava syndrome,3689,3,3889,3,6
+Disorder of cardiovascular system,134057,4226026,Stenosis of lower limb artery,3483,2,3883,4,6
+Disorder of cardiovascular system,134057,4062269,Cerebral venous thrombosis in pregnancy,3881,15,3881,15,6
+Disorder of cardiovascular system,134057,4161973,Progressive angina,3853,3,3853,3,5
+Disorder of cardiovascular system,134057,4174077,Myocardial bridge of coronary artery,3853,3,3853,3,7
+Disorder of cardiovascular system,134057,318072,Histoplasmosis with pericarditis,1447,12,3818,12,3
+Disorder of cardiovascular system,134057,4318411,Arteriovenous malformation of kidney,3765,11,3765,11,4
+Disorder of cardiovascular system,134057,4121623,Aortoiliac atherosclerosis,3749,3,3749,3,5
+Disorder of cardiovascular system,134057,4211509,Cardioembolic stroke,3727,3,3727,3,4
+Disorder of cardiovascular system,134057,4153351,Terminal aortic occlusion,511,3,3721,6,6
+Disorder of cardiovascular system,134057,46270025,Gastric hemorrhage due to eosinophilic gastritis,3712,12,3712,12,5
+Disorder of cardiovascular system,134057,4133975,Deep venous thrombosis of pelvic vein,405,2,3697,4,6
+Disorder of cardiovascular system,134057,45757143,Postpartum septic thrombophlebitis,3696,10,3696,10,7
+Disorder of cardiovascular system,134057,432480,Injury of multiple blood vessels of abdomen AND/OR pelvis,3677,16,3677,16,4
+Disorder of cardiovascular system,134057,4232581,Cholesterol retinal embolus,2951,3,3620,3,5
+Disorder of cardiovascular system,134057,44784145,Primary hypertrophic cardiomyopathy,200,2,3598,3,5
+Disorder of cardiovascular system,134057,4239400,Aneurysm of femoral artery,3067,3,3574,3,7
+Disorder of cardiovascular system,134057,43021739,Abnormality of fetal heart,2834,3,3534,3,3
+Disorder of cardiovascular system,134057,40490938,Abnormality of mitral valve annulus,213,2,3524,3,4
+Disorder of cardiovascular system,134057,4219760,Pneumopericardium,200,2,3511,13,2
+Disorder of cardiovascular system,134057,37016886,Dissection of artery of upper extremity,3507,12,3507,12,5
+Disorder of cardiovascular system,134057,4194154,Infective aortitis,538,2,3496,12,6
+Disorder of cardiovascular system,134057,319728,Coxsackie myocarditis,3472,13,3472,13,7
+Disorder of cardiovascular system,134057,4091311,Listerial endocarditis,3458,10,3458,10,7
+Disorder of cardiovascular system,134057,4252385,Coronary artery bypass graft occlusion,3449,4,3449,4,5
+Disorder of cardiovascular system,134057,4046228,Carotidynia,3414,3,3414,3,5
+Disorder of cardiovascular system,134057,79186,Contusion to heart with open wound into thorax,3404,12,3404,12,6
+Disorder of cardiovascular system,134057,4309008,Heart-lung transplant failure and rejection,3344,14,3344,14,5
+Disorder of cardiovascular system,134057,4088349,"Ventricular tachycardia, polymorphic",1231,3,3322,4,3
+Disorder of cardiovascular system,134057,43530781,Pericardial cyst,785,2,3307,3,2
+Disorder of cardiovascular system,134057,199959,Injury of inferior mesenteric artery,3300,12,3300,12,7
+Disorder of cardiovascular system,134057,439683,Histoplasma capsulatum with endocarditis,2389,12,3289,12,7
+Disorder of cardiovascular system,134057,442418,Puerperal cerebrovascular disorder - delivered with postnatal complication,3278,12,3278,12,3
+Disorder of cardiovascular system,134057,4108369,Common iliac aneurysm,2611,2,3256,3,7
+Disorder of cardiovascular system,134057,40491883,Alveolar capillary dysplasia with pulmonary venous misalignment,3249,10,3249,10,6
+Disorder of cardiovascular system,134057,46269829,Cardiac disorder due to typhoid fever,3249,9,3249,9,2
+Disorder of cardiovascular system,134057,4108170,Mitral valve annular calcification,3211,3,3211,3,5
+Disorder of cardiovascular system,134057,40486933,Heart failure with normal ejection fraction,3202,3,3202,3,4
+Disorder of cardiovascular system,134057,442263,Basilar artery stenosis,3167,6,3167,6,5
+Disorder of cardiovascular system,134057,4120257,Venous hypertension of lower limb,3146,3,3146,3,5
+Disorder of cardiovascular system,134057,4124689,Atrial myxoma,2938,3,3138,3,5
+Disorder of cardiovascular system,134057,4236004,Ectopic atrial beats,3128,3,3128,3,4
+Disorder of cardiovascular system,134057,4317150,Sudden cardiac death,3127,5,3127,5,3
+Disorder of cardiovascular system,134057,4261839,Perinatal pneumopericardium,3111,12,3111,12,3
+Disorder of cardiovascular system,134057,4222765,Primary familial hypertrophic cardiomyopathy,3070,3,3070,3,6
+Disorder of cardiovascular system,134057,4059242,Injury of superficial vein at shoulder and upper arm level,3045,13,3045,13,6
+Disorder of cardiovascular system,134057,4016543,Injury to heart and lung,3043,6,3043,6,4
+Disorder of cardiovascular system,134057,36716999,Cerebellar stroke,1440,2,3000,3,5
+Disorder of cardiovascular system,134057,4240338,False aneurysm of artery,468,4,2967,4,3
+Disorder of cardiovascular system,134057,315467,Syphilitic aortitis,2958,12,2958,12,7
+Disorder of cardiovascular system,134057,137695,Closed fracture of T1-T6 level with anterior cord syndrome,2925,12,2925,12,7
+Disorder of cardiovascular system,134057,4122765,Vascular graft stenosis,2006,3,2917,4,3
+Disorder of cardiovascular system,134057,4303408,Brugada syndrome,2865,4,2865,4,4
+Disorder of cardiovascular system,134057,4002625,Portal vein-hepatic artery fistula,2861,15,2861,15,4
+Disorder of cardiovascular system,134057,46271900,Recurrent deep vein thrombosis,2840,3,2840,3,6
+Disorder of cardiovascular system,134057,315469,Coxsackie pericarditis,2838,12,2838,12,4
+Disorder of cardiovascular system,134057,4081094,Generalized essential telangiectasia,2832,3,2832,3,5
+Disorder of cardiovascular system,134057,45757139,Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy,2830,10,2830,10,5
+Disorder of cardiovascular system,134057,434531,Injury of axillary vein,2800,13,2800,13,6
+Disorder of cardiovascular system,134057,45766136,Non-rheumatic aortic valve stenosis with regurgitation,2798,3,2798,3,7
+Disorder of cardiovascular system,134057,439966,Injury of pulmonary vein,2783,13,2783,13,5
+Disorder of cardiovascular system,134057,43021846,Peripheral arterial insufficiency,2779,3,2779,3,5
+Disorder of cardiovascular system,134057,4124837,Upper limb ischemia,612,3,2778,4,6
+Disorder of cardiovascular system,134057,4182190,Left ventricular aneurysm,2647,4,2747,4,5
+Disorder of cardiovascular system,134057,319967,Injury of deep plantar blood vessel,2742,12,2742,12,5
+Disorder of cardiovascular system,134057,4059463,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",2725,14,2725,14,4
+Disorder of cardiovascular system,134057,4139206,Sustained ventricular tachycardia,2721,3,2721,3,3
+Disorder of cardiovascular system,134057,43021826,Congestive heart failure stage C,2566,3,2720,3,5
+Disorder of cardiovascular system,134057,4241439,Injury of brachial vein,2659,12,2659,12,6
+Disorder of cardiovascular system,134057,193627,Injury of hepatic vein,2652,13,2652,13,6
+Disorder of cardiovascular system,134057,4119949,Old anterior myocardial infarction,2646,3,2646,3,6
+Disorder of cardiovascular system,134057,4125008,Prosthetic cardiac valve displacement,2613,11,2613,11,4
+Disorder of cardiovascular system,134057,4089976,Acute Chagas' disease with heart involvement,2585,14,2585,14,4
+Disorder of cardiovascular system,134057,4193056,Femoral artery occlusion,946,2,2570,3,7
+Disorder of cardiovascular system,134057,442054,Amniotic fluid pulmonary embolism - delivered,2552,13,2552,13,4
+Disorder of cardiovascular system,134057,437777,Meningococcal endocarditis,2539,12,2539,12,7
+Disorder of cardiovascular system,134057,4121479,Ectopic atrial tachycardia,2332,3,2532,3,6
+Disorder of cardiovascular system,134057,40480216,Symptomatic sinus bradycardia,2520,3,2520,3,6
+Disorder of cardiovascular system,134057,436768,Amniotic fluid pulmonary embolism with antenatal complication,2519,11,2519,11,4
+Disorder of cardiovascular system,134057,4319329,Thrombosis of cerebral veins,1701,2,2503,3,5
+Disorder of cardiovascular system,134057,4056568,Injury of dorsal vein of foot,2478,14,2478,14,6
+Disorder of cardiovascular system,134057,442789,Injury of inferior mesenteric vein,2455,12,2455,12,5
+Disorder of cardiovascular system,134057,36715675,Minor laceration of carotid artery,2401,11,2401,11,6
+Disorder of cardiovascular system,134057,442321,Injury of posterior tibial vein,2380,13,2380,13,6
+Disorder of cardiovascular system,134057,314867,Histoplasma capsulatum with pericarditis,1371,12,2371,12,4
+Disorder of cardiovascular system,134057,4113304,Pleuropericardial cyst,2322,3,2322,3,3
+Disorder of cardiovascular system,134057,4108219,Rupture of chordae tendinae due to and following acute myocardial infarction,2283,15,2283,15,5
+Disorder of cardiovascular system,134057,46270360,Moderate laceration of heart with hemopericardium,2274,11,2274,11,6
+Disorder of cardiovascular system,134057,40482857,Cardiorenal syndrome,2071,3,2271,3,4
+Disorder of cardiovascular system,134057,443778,Diphtheritic myocarditis,2258,13,2258,13,7
+Disorder of cardiovascular system,134057,196851,Injury of primary branch of superior mesenteric artery,2039,12,2239,12,7
+Disorder of cardiovascular system,134057,4313491,"Migraine variants, not intractable",2199,4,2199,4,5
+Disorder of cardiovascular system,134057,195118,Injury of hypogastric artery,2192,12,2192,12,7
+Disorder of cardiovascular system,134057,4088983,AV-junctional (nodal) bradycardia,2172,3,2172,3,5
+Disorder of cardiovascular system,134057,4236332,Primary restrictive cardiomyopathy,1648,4,2148,4,5
+Disorder of cardiovascular system,134057,44811347,Thrombosis of internal jugular vein,2148,5,2148,5,5
+Disorder of cardiovascular system,134057,36715676,Minor laceration of vertebral artery,2141,10,2141,10,6
+Disorder of cardiovascular system,134057,4055089,Superior mesenteric vein thrombosis,2130,3,2130,3,6
+Disorder of cardiovascular system,134057,4040994,Senile cardiac amyloidosis,2108,3,2108,3,4
+Disorder of cardiovascular system,134057,4256374,Cardiorespiratory arrest,1797,3,2097,3,4
+Disorder of cardiovascular system,134057,43021702,Dysfunction of right cardiac ventricle,860,2,2083,3,4
+Disorder of cardiovascular system,134057,4057978,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",1000,10,2044,13,4
+Disorder of cardiovascular system,134057,4104217,Choroidal hemorrhage and rupture,2032,10,2032,10,4
+Disorder of cardiovascular system,134057,43020870,Arterial tortuosity syndrome,2031,10,2031,10,3
+Disorder of cardiovascular system,134057,4035494,Congenital phlebectasia,2030,16,2030,16,5
+Disorder of cardiovascular system,134057,4084941,Thrombosis of superior vena cava,1622,5,2022,5,6
+Disorder of cardiovascular system,134057,4101317,Right cardiac ventricular dilatation,1984,3,1984,3,5
+Disorder of cardiovascular system,134057,4028960,Calciphylaxis,1777,3,1977,3,4
+Disorder of cardiovascular system,134057,4139577,Ischemic hand,332,2,1966,3,7
+Disorder of cardiovascular system,134057,4119759,Saphenous vein thrombophlebitis,1337,2,1954,4,7
+Disorder of cardiovascular system,134057,4277110,Pre-existing hypertension complicating AND/OR reason for care during pregnancy,1954,4,1954,4,4
+Disorder of cardiovascular system,134057,4084446,Thrombosis of inferior vena cava,1743,3,1943,3,6
+Disorder of cardiovascular system,134057,36716629,Minor laceration of external jugular vein,1943,10,1943,10,6
+Disorder of cardiovascular system,134057,4146311,Leriche's syndrome,1901,4,1901,4,7
+Disorder of cardiovascular system,134057,197148,Injury of ovarian vein,1885,12,1885,12,6
+Disorder of cardiovascular system,134057,4048281,Massive umbilical hemorrhage of newborn,1877,13,1877,13,4
+Disorder of cardiovascular system,134057,36716590,Major laceration of carotid artery,1877,9,1877,9,6
+Disorder of cardiovascular system,134057,4126926,Senile hemangioma of lip,1868,3,1868,3,6
+Disorder of cardiovascular system,134057,4184953,Congenital hypoplasia of aorta,890,4,1861,5,7
+Disorder of cardiovascular system,134057,4190891,Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy,1750,5,1850,5,2
+Disorder of cardiovascular system,134057,4144463,Tachycardia-induced cardiomyopathy,1840,3,1840,3,4
+Disorder of cardiovascular system,134057,4119141,Atherosclerotic renal artery stenosis,1826,3,1826,3,7
+Disorder of cardiovascular system,134057,443864,Multi-infarct dementia with depression,1790,3,1790,3,6
+Disorder of cardiovascular system,134057,4031766,Congenital atresia of pulmonary artery,1487,5,1787,5,6
+Disorder of cardiovascular system,134057,36717575,Major laceration of vertebral artery,1779,10,1779,10,6
+Disorder of cardiovascular system,134057,4283352,Pre-eclampsia added to pre-existing hypertension,1760,5,1760,5,5
+Disorder of cardiovascular system,134057,4111856,Juvenile polyarteritis,1757,13,1757,13,5
+Disorder of cardiovascular system,134057,315113,Injury of multiple blood vessels of thorax,1746,15,1746,15,4
+Disorder of cardiovascular system,134057,45757156,Pyemic and septic embolism in pregnancy,1737,9,1737,9,3
+Disorder of cardiovascular system,134057,4208808,Femoral false aneurysm,1446,3,1734,3,4
+Disorder of cardiovascular system,134057,4151275,Phlebitis of iliac vein,200,2,1707,4,7
+Disorder of cardiovascular system,134057,4199887,Ischemic foot,530,3,1677,3,7
+Disorder of cardiovascular system,134057,4135823,Torsades de pointes,1560,3,1660,3,4
+Disorder of cardiovascular system,134057,45757212,Amniotic fluid embolism in childbirth,1652,9,1652,9,4
+Disorder of cardiovascular system,134057,4145721,Acute non-Q wave infarction,1046,3,1646,3,6
+Disorder of cardiovascular system,134057,36715677,Minor laceration of internal jugular vein,1641,10,1641,10,6
+Disorder of cardiovascular system,134057,4124686,Silent myocardial infarction,1640,3,1640,3,5
+Disorder of cardiovascular system,134057,433958,Coxsackie endocarditis,1631,12,1631,12,7
+Disorder of cardiovascular system,134057,46270358,Major laceration of heart with hemopericardium,1627,11,1627,11,6
+Disorder of cardiovascular system,134057,44783621,Associated pulmonary arterial hypertension,200,2,1621,3,7
+Disorder of cardiovascular system,134057,4317290,Thrombophlebitis of pelvic vein,200,2,1607,4,6
+Disorder of cardiovascular system,134057,440257,Injury of anterior tibial vein,1600,12,1600,12,6
+Disorder of cardiovascular system,134057,4065093,Cardiac complications of anesthesia during labor and delivery,1574,12,1574,12,3
+Disorder of cardiovascular system,134057,312543,Meningococcal pericarditis,1448,12,1548,12,5
+Disorder of cardiovascular system,134057,4033521,Splenic vein thrombosis,1536,3,1536,3,5
+Disorder of cardiovascular system,134057,36715678,Major laceration of internal jugular vein,1529,9,1529,9,6
+Disorder of cardiovascular system,134057,4100255,Abnormality of common atrioventricular valve in atrioventricular septal defect,216,2,1528,4,5
+Disorder of cardiovascular system,134057,4116203,Angiofibroma,1125,3,1525,3,2
+Disorder of cardiovascular system,134057,4144901,Critical stenosis of aortic valve,1513,3,1513,3,6
+Disorder of cardiovascular system,134057,46269812,Cardiac arrest due to miscarriage,800,8,1500,8,4
+Disorder of cardiovascular system,134057,4119601,Lone atrial fibrillation,1497,3,1497,3,6
+Disorder of cardiovascular system,134057,442346,Legal termination of pregnancy complicated by embolism,1371,13,1471,13,4
+Disorder of cardiovascular system,134057,45766075,Acute anterior ST segment elevation myocardial infarction,1344,8,1444,8,7
+Disorder of cardiovascular system,134057,40479232,Congenital long QT syndrome,361,3,1440,4,5
+Disorder of cardiovascular system,134057,197930,"Renal hypertension complicating pregnancy, childbirth and the puerperium",300,3,1415,3,4
+Disorder of cardiovascular system,134057,437948,Amniotic fluid pulmonary embolism with postnatal complication,1405,13,1405,13,4
+Disorder of cardiovascular system,134057,36713582,Cardiac complication of anesthesia during the puerperium,1398,10,1398,10,2
+Disorder of cardiovascular system,134057,4199413,Dissection of proximal aorta,364,3,1391,3,7
+Disorder of cardiovascular system,134057,4139578,Ischemic toe,1336,3,1336,3,7
+Disorder of cardiovascular system,134057,4100876,Tricuspid valve prolapse,1335,3,1335,3,5
+Disorder of cardiovascular system,134057,442112,Gonococcal pericarditis,1219,12,1319,12,5
+Disorder of cardiovascular system,134057,375185,Rubella encephalomyelitis,1317,11,1317,11,3
+Disorder of cardiovascular system,134057,4124840,Stenosis of abdominal aorta,1315,3,1315,3,6
+Disorder of cardiovascular system,134057,36716591,Major laceration of external jugular vein,1315,9,1315,9,6
+Disorder of cardiovascular system,134057,4234264,Thrombosis of cavernous venous sinus,806,4,1306,4,6
+Disorder of cardiovascular system,134057,443790,Multi-infarct dementia with delusions,1281,3,1281,3,6
+Disorder of cardiovascular system,134057,437725,Injury of branch of celiac axis,1263,12,1263,12,6
+Disorder of cardiovascular system,134057,442586,Gonococcal endocarditis,1260,12,1260,12,7
+Disorder of cardiovascular system,134057,4121648,Subclavian vein stenosis,1254,3,1254,3,4
+Disorder of cardiovascular system,134057,198599,Injury of ovarian artery,1242,12,1242,12,6
+Disorder of cardiovascular system,134057,37019162,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,1238,10,1238,10,5
+Disorder of cardiovascular system,134057,319720,Meningococcal myocarditis,1231,11,1231,11,7
+Disorder of cardiovascular system,134057,4121469,Prosthetic valve endocarditis,1222,3,1222,3,7
+Disorder of cardiovascular system,134057,4201300,Fetal blood loss from ruptured cord,1217,11,1217,11,4
+Disorder of cardiovascular system,134057,4027535,Vascular thoracic outlet syndrome,409,2,1212,3,3
+Disorder of cardiovascular system,134057,4124851,Steal syndrome of upper limb,344,2,1209,3,5
+Disorder of cardiovascular system,134057,4094022,Arteriovenous graft thrombosis,1004,3,1204,3,4
+Disorder of cardiovascular system,134057,45766116,Acute ST segment elevation myocardial infarction of inferior wall,1090,8,1190,8,7
+Disorder of cardiovascular system,134057,441632,Complete miscarriage with embolism,1177,11,1177,11,4
+Disorder of cardiovascular system,134057,4124853,Vibration syndrome,300,3,1168,9,5
+Disorder of cardiovascular system,134057,46273471,Myocarditis due to scarlet fever,1150,10,1150,10,5
+Disorder of cardiovascular system,134057,4150305,Post-pericardiotomy syndrome,942,3,1142,3,2
+Disorder of cardiovascular system,134057,440540,Open fracture of C1-C4 level with anterior cord syndrome,1136,11,1136,11,7
+Disorder of cardiovascular system,134057,443868,Failed attempted termination of pregnancy complicated by embolism,1131,11,1131,11,3
+Disorder of cardiovascular system,134057,4092667,Measles with intestinal complications,1118,11,1118,11,4
+Disorder of cardiovascular system,134057,320025,Syphilitic pericarditis,1100,11,1100,11,5
+Disorder of cardiovascular system,134057,435874,Maternal rubella in the puerperium - baby delivered during current episode of care,1100,11,1100,11,4
+Disorder of cardiovascular system,134057,443644,Injury of internal iliac vein,1100,11,1100,11,7
+Disorder of cardiovascular system,134057,4101624,Arrhythmogenic right ventricular dysplasia,887,4,1087,4,5
+Disorder of cardiovascular system,134057,4121650,Pulmonary vein stenosis,666,2,1085,3,4
+Disorder of cardiovascular system,134057,4240289,Rheumatic heart valve failure,646,3,1046,3,4
+Disorder of cardiovascular system,134057,45757137,Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth,1044,8,1044,8,5
+Disorder of cardiovascular system,134057,4277903,Sinoatrial block,1032,4,1032,4,6
+Disorder of cardiovascular system,134057,4314210,Neoplasm of uncertain behavior of blood vessel,201,2,1031,3,2
+Disorder of cardiovascular system,134057,4048790,Syphilitic cerebral arteritis,1003,7,1003,7,5
+Disorder of cardiovascular system,134057,193821,Illegal termination of pregnancy complicated by embolism,900,9,1000,10,4
+Disorder of cardiovascular system,134057,200882,Injury of uterine vein,1000,10,1000,10,6
+Disorder of cardiovascular system,134057,439682,Histoplasma duboisii with pericarditis,1000,10,1000,10,5
+Disorder of cardiovascular system,134057,4121632,Dissection of distal aorta,997,4,997,4,7
+Disorder of cardiovascular system,134057,4193057,Popliteal artery occlusion,994,3,994,3,7
+Disorder of cardiovascular system,134057,4184599,Congenital hypoplasia of pulmonary artery,477,2,934,3,6
+Disorder of cardiovascular system,134057,4103448,Low output heart failure,200,2,929,3,4
+Disorder of cardiovascular system,134057,45757126,Air embolism in childbirth,900,9,900,9,5
+Disorder of cardiovascular system,134057,4034094,Moderate proteinuric hypertension of pregnancy,870,4,870,4,4
+Disorder of cardiovascular system,134057,4121643,Vibration white finger,868,8,868,8,6
+Disorder of cardiovascular system,134057,4124850,Steal syndrome of hand,865,3,865,3,6
+Disorder of cardiovascular system,134057,4298134,Arteriovenous hemangioma,856,3,856,3,3
+Disorder of cardiovascular system,134057,4318863,Systemic lupus erythematosus encephalitis,838,3,838,3,6
+Disorder of cardiovascular system,134057,4046649,Hemangiopericytoma,830,3,830,3,3
+Disorder of cardiovascular system,134057,4117933,Femoral popliteal occlusion,200,2,824,3,7
+Disorder of cardiovascular system,134057,433010,Ebstein's anomaly of common atrioventricular valve,812,4,812,4,7
+Disorder of cardiovascular system,134057,45757155,Pyemic and septic embolism in childbirth,806,8,806,8,3
+Disorder of cardiovascular system,134057,4236340,Vascular ectasia of colon,603,3,803,3,5
+Disorder of cardiovascular system,134057,45772126,Hereditary diffuse endocapillary proliferative glomerulonephritis,800,8,800,8,5
+Disorder of cardiovascular system,134057,4289731,Thrombophlebitis of breast,795,4,795,4,5
+Disorder of cardiovascular system,134057,4267568,Acute anteroseptal myocardial infarction,492,3,792,3,6
+Disorder of cardiovascular system,134057,4133976,Portal systemic vascular shunt disorder,312,3,789,3,4
+Disorder of cardiovascular system,134057,4100135,Right atrial dilatation,674,3,774,3,6
+Disorder of cardiovascular system,134057,44783022,Telangiectasia of skin of face,765,3,765,3,4
+Disorder of cardiovascular system,134057,4242096,Phlebolithiasis,652,3,752,3,3
+Disorder of cardiovascular system,134057,4173466,Kartagener syndrome,749,3,749,3,7
+Disorder of cardiovascular system,134057,4121631,Mycotic aneurysm,537,3,737,3,3
+Disorder of cardiovascular system,134057,4124698,Re-entrant atrioventricular node tachycardia,635,2,735,3,5
+Disorder of cardiovascular system,134057,4096157,Thrombosis of retinal artery,633,4,733,4,5
+Disorder of cardiovascular system,134057,4231817,Malignant pericardial effusion,732,4,732,4,4
+Disorder of cardiovascular system,134057,4185565,Low cardiac output syndrome,729,3,729,3,5
+Disorder of cardiovascular system,134057,4105338,Thrombosis transverse sinus,728,3,728,3,6
+Disorder of cardiovascular system,134057,44782761,Acute deep venous thrombosis of pelvic vein,200,2,728,3,6
+Disorder of cardiovascular system,134057,4166859,Right ventricular systolic dysfunction,723,3,723,3,5
+Disorder of cardiovascular system,134057,192684,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered",715,3,715,3,5
+Disorder of cardiovascular system,134057,4108669,Acute myocardial infarction of atrium,711,3,711,3,6
+Disorder of cardiovascular system,134057,44782707,Nonsustained paroxysmal ventricular tachycardia,704,3,704,3,6
+Disorder of cardiovascular system,134057,43530960,Induced termination of pregnancy complicated by cardiac arrest,700,7,700,7,5
+Disorder of cardiovascular system,134057,46274066,Cardiac arrest due to incomplete miscarriage,700,7,700,7,5
+Disorder of cardiovascular system,134057,4120944,Arteriovenous fistula infection,400,3,684,3,3
+Disorder of cardiovascular system,134057,4125006,Prosthetic cardiac valve thrombosis,678,3,678,3,4
+Disorder of cardiovascular system,134057,4048534,Left coronary artery occlusion,677,3,677,3,5
+Disorder of cardiovascular system,134057,4309333,Postoperative deep vein thrombosis,461,3,661,3,5
+Disorder of cardiovascular system,134057,4117268,Mitral valve vegetations,642,3,642,3,4
+Disorder of cardiovascular system,134057,4103319,Aortic valve vegetations,632,3,632,3,5
+Disorder of cardiovascular system,134057,4322735,Hypertension associated with transplantation,300,3,621,3,3
+Disorder of cardiovascular system,134057,4056458,Injury of multiple blood vessels of upper extremity,605,4,605,4,4
+Disorder of cardiovascular system,134057,4143889,Rupture iliac artery,200,2,600,3,7
+Disorder of cardiovascular system,134057,4272028,Mumps myocarditis,600,6,600,6,7
+Disorder of cardiovascular system,134057,4292532,Urticarial vasculitis,200,2,600,3,5
+Disorder of cardiovascular system,134057,46269805,Cardiac arrest due to failed attempted abortion,600,6,600,6,4
+Disorder of cardiovascular system,134057,4108828,Ventricular pre-excitation,564,3,564,3,4
+Disorder of cardiovascular system,134057,315399,Injury of innominate artery,549,4,549,4,6
+Disorder of cardiovascular system,134057,4121800,Venous-lymphatic malformation,324,3,524,3,5
+Disorder of cardiovascular system,134057,4122762,Electromechanical dissociation,421,3,521,3,4
+Disorder of cardiovascular system,134057,46269822,Gastric hemorrhage due to angiodysplasia of stomach,521,4,521,4,5
+Disorder of cardiovascular system,134057,314749,Fetal bradycardia,520,3,520,3,4
+Disorder of cardiovascular system,134057,4233620,Cogan's syndrome,520,3,520,3,5
+Disorder of cardiovascular system,134057,4050681,Injury of multiple blood vessels at ankle and foot level,500,5,500,5,6
+Disorder of cardiovascular system,134057,4119608,Pulmonary fat embolism,200,2,500,4,6
+Disorder of cardiovascular system,134057,4319458,Neonatal cyanosis,300,3,500,3,2
+Disorder of cardiovascular system,134057,4166380,Junctional escape beats,499,3,499,3,5
+Disorder of cardiovascular system,134057,4300416,Lyme carditis,497,3,497,3,4
+Disorder of cardiovascular system,134057,4345926,Abdominal angina,493,3,493,3,6
+Disorder of cardiovascular system,134057,4228836,AV node arrhythmia,378,3,478,3,5
+Disorder of cardiovascular system,134057,43020654,Valvular cardiomyopathy,471,3,471,3,5
+Disorder of cardiovascular system,134057,4050553,Injury of multiple blood vessels at forearm level,461,3,461,3,5
+Disorder of cardiovascular system,134057,4218874,Scimitar syndrome,457,3,457,3,7
+Disorder of cardiovascular system,134057,4006783,Fahr's syndrome,449,3,449,3,2
+Disorder of cardiovascular system,134057,43022068,Exacerbation of congestive heart failure,447,3,447,3,5
+Disorder of cardiovascular system,134057,4087310,Bleeding gastric varices,439,4,439,4,7
+Disorder of cardiovascular system,134057,4234089,Subcortical leukoencephalopathy,439,3,439,3,5
+Disorder of cardiovascular system,134057,4121616,Athlete's heart,434,3,434,3,2
+Disorder of cardiovascular system,134057,4120943,Vascular graft hemorrhage,230,1,430,3,3
+Disorder of cardiovascular system,134057,4304839,Diffuse intraventricular block,427,3,427,3,6
+Disorder of cardiovascular system,134057,43021729,Fetal pericardial effusion,413,3,413,3,3
+Disorder of cardiovascular system,134057,443745,Injury of subclavian artery,406,4,406,4,5
+Disorder of cardiovascular system,134057,4146816,Pre-existing hypertension complicating AND/OR reason for care during childbirth,405,3,405,3,4
+Disorder of cardiovascular system,134057,4046443,Cerebral venous thrombosis of cortical vein,302,2,402,3,6
+Disorder of cardiovascular system,134057,4055599,Injury of multiple blood vessels at lower leg level,400,4,400,4,6
+Disorder of cardiovascular system,134057,4056438,Injury of multiple blood vessels at neck level,400,4,400,4,5
+Disorder of cardiovascular system,134057,4101625,Right ventricular outflow tract obstruction,300,3,400,3,5
+Disorder of cardiovascular system,134057,4149712,Rupture of interventricular septum,200,2,400,3,4
+Disorder of cardiovascular system,134057,4174016,Celiac artery thrombosis,200,2,400,3,4
+Disorder of cardiovascular system,134057,45766077,Dural arteriovenous fistula,200,2,400,3,2
+Disorder of cardiovascular system,134057,4007948,Interventricular cardiac septal hypertrophy,388,3,388,3,4
+Disorder of cardiovascular system,134057,4323895,Exertional hypotension,384,3,384,3,3
+Disorder of cardiovascular system,134057,4120102,Popliteal entrapment syndrome,348,3,348,3,4
+Disorder of cardiovascular system,134057,40483223,Hypertrophic cardiomegaly,333,3,333,3,4
+Disorder of cardiovascular system,134057,4226129,Hepatic artery stenosis,330,3,330,3,4
+Disorder of cardiovascular system,134057,4270625,Primary idiopathic hypertrophic cardiomyopathy,328,3,328,3,6
+Disorder of cardiovascular system,134057,4023404,Congenital stenosis of pulmonary veins,319,3,319,3,6
+Disorder of cardiovascular system,134057,4253510,Erythrocyanosis,319,3,319,3,2
+Disorder of cardiovascular system,134057,4119951,Accelerated coronary artery disease in transplanted heart,318,3,318,3,5
